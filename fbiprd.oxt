@@ -1,0 +1,15 @@
+﻿Version 2 30
+{
+	PRD_BLIP = 面具
+	PRD_BUYF = 给富兰克林买一个面具。
+	PRD_BUYM = 给麦克买一个面具。
+	PRD_BUYT = 给崔佛买一个面具。
+	PRD_CASH = 由于资金不足，所以无法购买所需面具。
+	PRD_COPS = 警方已察觉。
+	PRD_FKICKOFF = 无法购买所需的面具。
+	PRD_FLEFT = 已离开面具商店。
+	PRD_GCLOTH = 购买µ3µ个~g~面具~s~。
+	PRD_LEAVE = 离开商店。
+	PRD_RETSHOP = 返回~y~商店~s~。
+	PRD_SHOP = 商店
+}

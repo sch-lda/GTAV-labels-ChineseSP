@@ -1,0 +1,25 @@
+﻿Version 2 30
+{
+	MET1ABANDON = 特蕾西被抛下。
+	MET1CHASE = 停下跟踪狂的~r~车~s~。
+	MET1CPSTALK = 警察吓跑了跟踪狂。
+	MET1DLT = 返回~b~特蕾西~s~处。
+	MET1ESCAPE = 跟踪狂已逃脱。
+	MET1GETBKT = 回到特蕾西的~b~汽车~s~上。
+	MET1HOME = 带特蕾西~y~回家~s~。
+	MET1HOTEL = 带特蕾西去~y~酒店~s~。
+	MET1INITDRV = 前往~b~特蕾西~s~处。
+	MET1KSTKBLU = 应付~b~跟踪狂~s~。
+	MET1KSTKRED = 应付~r~跟踪狂~s~。
+	MET1LBSTALK = 跟踪狂
+	MET1LBTRAC = 特蕾西
+	MET1STUCK = 特蕾西的车已被困。
+	MET1TCAR = 乘上特蕾西的~b~汽车~s~。
+	MET1TOOLATE = 未能及时见到特蕾西。
+	MET1TRAKILL = 特蕾西已死亡。
+	MET1TRASCARE = 特蕾西受到了惊吓。
+	MET1TRASHOT = 特蕾西受伤了。
+	MET1TWRECK = 特蕾西的车已被摧毁。
+	MET1WAIT = 等待~b~特蕾西~s~。
+	MET1WANT = 甩掉警察。
+}

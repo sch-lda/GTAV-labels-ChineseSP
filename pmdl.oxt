@@ -1,0 +1,13 @@
+﻿Version 2 30
+{
+	PMDL_BCK = ~s~返回~b~厢型车~s~。
+	PMDL_BCKT = ~s~返回~b~卡车~s~。
+	PMDL_BTIM = ~s~在时间截止前把酒送到~y~酒吧~s~。
+	PMDL_DMG = ~s~受损货物~s~
+	PMDL_LOC = ~s~把火车运送到~y~商店~s~。
+	PMDL_OBJ = ~s~拿到~b~厢型车~s~。
+	PMDL_REC = ~s~找回~b~厢型车~s~。
+	PMDL_TIM = ~s~在时间截止前把火车开到~y~商店~s~中。
+	PMDL_TIME = ~s~剩余时间~s~
+	PMDL_TRUCK = ~s~乘上~b~卡车~s~。
+}

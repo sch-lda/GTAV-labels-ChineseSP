@@ -1,0 +1,7 @@
+﻿Version 2 30
+{
+	MRSP2_F_01 = ~s~药品被摧毁。
+	MRSP2_OBJ_01 = ~s~前往~y~拖车~s~。
+	MRSP2_OBJ_02 = ~s~返回~b~厢型车~s~。
+	MRSP2_OBJ_03 = ~s~进入~y~拖车~s~。
+}

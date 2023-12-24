@@ -1,0 +1,30 @@
+﻿Version 2 30
+{
+	0x03389B7E = ~s~逃离并甩掉警察。
+	0x7C697DC1 = ~s~Press ~INPUT_VEH_ATTACK~ to use the lift.
+	0x130F4E90 = ~s~进入~b~消防车~s~。
+	0x796B4432 = ~s~进入~y~电梯~s~。
+	0xA5C7D07D = 切换到麦克。按住µ~INPUT_VEH_ATTACK~，然后选择µ~input_whistle~。
+	0xAC9975D1 = ~s~与队员会合，前往~b~消防车~s~处。
+	H1_BUDDY = ~s~一名~b~队员~s~被抛下。
+	H1_BUDDYS = ~s~~b~队员~s~被抛下。
+	H1_FAIL = ~r~消防车被摧毁。
+	H1_FAIL1 = ~r~一名队员已死亡。
+	H1_FAIL2 = ~r~队员被抛下。
+	H1_FBHEI4 = ~s~靠近µ~y~FIBµ总部~s~。
+	H1_PASS = ~s~任务成功
+	H1_SIREN = ~s~按µ~PAD_LSTICK_NONE~µ打开警笛。
+	H_ENTER = ~s~进入µ~y~FIBµ总部~s~。
+	H_ESCAPE = ~s~逃离大楼。返回~y~楼梯~s~。
+	H_ESCAPE2 = ~s~逃离大楼。返回~y~电梯~s~。
+	H_GETBACKIN = ~s~返回~b~消防车~s~。
+	H_GETTOBANK = ~s~前往µ~y~FIBµ总部~s~。
+	H_PHOLDER = ~s~麦克和帮派成员用绳索滑下电梯井，到达安全处。然后离开消防车，分头行动。
+	H_STEALA = ~s~跟随~b~崔佛和队员~s~前往µ~y~53µ楼~s~。
+	H_STEALB = ~s~窃取~g~文件~s~。
+	H_STEALC = ~s~跟随~b~崔佛和队员~s~并找出~y~逃跑路线~s~。
+	H_STEALD = ~s~麦克，文件存储在µ53µ楼的一台笔记本电脑上。行动吧......
+	H_TRIGGER = ~s~用手机引爆炸药。~s~
+	OXYGEN = ~s~雷达旁边的仪表显示可用氧含量。在氧气耗尽前迅速逃离。
+	RETURNTRUCK = ~s~在~y~地下通道~s~离开消防车。
+}

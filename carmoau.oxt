@@ -1,0 +1,43 @@
+﻿Version 2 30
+{
+	CARMO_NO_SERA = carmo_BRAA
+	CARMO_NO_SERIF = 100
+	CARMO_NO_SERLF = 1100000
+	CARMO_NO_SERSL = D90
+	CARMO_NO_SER_01 = ~z~它现在情况很好。
+	CARMO_NO_SER_02 = ~z~你不需要任何修理。
+	CARMO_NO_SER_03 = ~z~我也想收你点钱，但这车好好的。
+	CARMO_PREPA = carmo_ACAA
+	CARMO_PREPIF = 100
+	CARMO_PREPLF = 1100000
+	CARMO_PREPSL = D90
+	CARMO_PREP_01 = ~z~Best custom work in town.
+	CARMO_PREP_02 = ~z~Custom jobs? No problem.
+	CARMO_PREP_03 = ~z~That's a hell of a ride.
+	CARMO_PREP_04 = ~z~It'll be like driving on velvet.
+	CARMO_WANTA = carmo_ABAA
+	CARMO_WANTIF = 100
+	CARMO_WANTLF = 1100000
+	CARMO_WANTSL = D90
+	CARMO_WANT_01 = ~z~今天什么风把你吹来了？
+	CARMO_WANT_02 = ~z~你是来这想要魔改的吗？
+	CARMO_WANT_03 = ~z~它又怎么了？
+	CARMO_WANT_04 = ~z~你想让我为你搞点什么花样？
+	CARMO_WANT_05 = ~z~洛圣都最好的技工能为你做点什么？
+	CARMO_WASTEA = carmo_BYAA
+	CARMO_WASTEIF = 100
+	CARMO_WASTELF = 1100000
+	CARMO_WASTESL = D90
+	CARMO_WASTE_01 = ~z~嘿，你知道我还有别的客人吧。
+	CARMO_WASTE_02 = ~z~行了，别浪费我的时间了。
+	CARMO_WASTE_03 = ~z~你到底是需要点什么，还是就是来犯浑的？
+	CARMO_WELCOMA = carmo_AAAA
+	CARMO_WELCOMIF = 100
+	CARMO_WELCOMLF = 1100000
+	CARMO_WELCOMSL = D90
+	CARMO_WELCOM_01 = ~z~停到那边去。
+	CARMO_WELCOM_02 = ~z~停到那里。
+	CARMO_WELCOM_03 = ~z~停那就行。
+	CARMO_WELCOM_04 = ~z~你该停到那边去。
+	CARMO_WELCOM_05 = ~z~嘿，那边随便找个地方停下就行。
+}

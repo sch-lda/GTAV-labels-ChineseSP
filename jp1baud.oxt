@@ -1,0 +1,12 @@
+﻿Version 2 30
+{
+	JP1B_WANDERA = JHP1B_ACAA
+	JP1B_WANDERIF = 100
+	JP1B_WANDERLF = 1100000
+	JP1B_WANDERSL = 191
+	JP1B_WANDER_01 = ~z~快滚开！
+	JP1B_WANDER_02 = ~z~快走！赶紧的！
+	JP1B_WANDER_03 = ~z~我需要清晰的视野！
+	JP1B_WANDER_04 = ~z~你想以妨碍司法公正罪被捕吗！？
+	JP1B_WANDER_05 = ~z~最后一次警告！快移开！
+}

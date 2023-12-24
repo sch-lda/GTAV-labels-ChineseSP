@@ -1,0 +1,23 @@
+﻿Version 2 30
+{
+	FPB_FAIL1 = ~s~钻洞机被摧毁。
+	FPB_FAIL2 = ~s~卡车被摧毁。
+	FPB_FAIL3 = ~s~拖车被摧毁。
+	FPB_FAIL4 = ~s~麦克离开了卡车。
+	FPB_FAIL5 = ~s~崔佛离开了卡车。
+	FPB_FAIL6 = ~s~富兰克林离开了卡车。
+	FPB_FAIL7 = ~s~麦克离开了钻洞机。
+	FPB_FAIL8 = ~s~崔佛离开了钻洞机。
+	FPB_FAIL9 = ~s~富兰克林离开了钻洞机。
+	FPB_FAIL10 = ~s~卡车被困。
+	FPB_FAIL11 = ~s~莱斯特的联系人被杀。
+	GOD_1 = ~s~偷走~b~钻洞机~s~。
+	GOD_2 = ~s~前往~y~停车场~s~。
+	GOD_3 = ~s~甩掉~r~工人~s~。
+	GOD_4 = ~s~甩掉警察。~s~
+	GOD_5 = ~s~返回~b~卡车~s~。
+	GOD_6 = ~s~重新接上~b~拖车~s~。
+	GOD_7 = ~s~把钻洞机从工场偷走。
+	HELP_1 = ~s~对齐卡车的尾部和拖车的前部以重新连接。
+	HELP_2 = ~s~任务中断。请稍后再试。
+}

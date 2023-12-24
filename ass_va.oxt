@@ -1,0 +1,36 @@
+﻿Version 2 30
+{
+	ASS_VA_ABAND = ~s~已放弃任务。~s~
+	ASS_VA_BASE = 基础奖励
+	ASS_VA_BDESC = 狙击暗杀奖励
+	ASS_VA_CASH = 赚取金额
+	ASS_VA_COMP = 完成
+	ASS_VA_COMPB = 完成：铜牌
+	ASS_VA_COMPG = 完成：金牌
+	ASS_VA_COMPN = 完成：无奖牌
+	ASS_VA_COMPS = 完成：银牌
+	ASS_VA_CONT = 继续
+	ASS_VA_COVER = ~s~富兰克林已经暴露身份。~s~
+	ASS_VA_DESTBLIP = 酒店
+	ASS_VA_DIED = ~s~富兰克林已死亡。~s~
+	ASS_VA_ESCAPED = ~s~目标已经逃离。~s~
+	ASS_VA_FAILED = ~s~目标未被暗杀。~s~
+	ASS_VA_GO = ~s~离开该区域。~s~
+	ASS_VA_GOHOTEL = ~s~前往~y~酒店~s~。
+	ASS_VA_KILL = ~s~暗杀~r~目标~s~。
+	ASS_VA_LATTACK = ~s~莱斯特受到攻击。~s~
+	ASS_VA_LOSECOPS = ~s~甩掉警察。~s~
+	ASS_VA_LOSEWANT = ~s~消除通缉等级。~s~
+	ASS_VA_NAME = 酒店暗杀行动
+	ASS_VA_PASSED = 任务成功
+	ASS_VA_PLANT = ~s~暗杀目标。~s~
+	ASS_VA_RETURN = ~s~返回~y~酒店~s~。
+	ASS_VA_RHOTEL = ~s~返回~y~酒店~s~。
+	ASS_VA_SNIPE1 = ~s~保镖已经到达旅馆准备接走目标。他很快就会离开。~s~
+	ASS_VA_SNIPE2 = ~s~请尽快做好进攻计划，在酒店找到有利于进攻的位置。~s~
+	ASS_VA_TIMELEFT = ~s~退房~s~
+	ASS_VA_TIMER = 所花费时间
+	ASS_VA_TIMERED = ~r~退房~s~
+	ASS_VA_VEHICLE = ~s~载具已引起保镖注意。~s~
+	ASS_VA_WANTED = ~s~富兰克林被通缉，身份已暴露。~s~
+}

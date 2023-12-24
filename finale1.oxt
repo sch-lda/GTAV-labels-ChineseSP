@@ -1,0 +1,12 @@
+﻿Version 2 30
+{
+	FIN1_CAR = 找一辆汽车或摩托车。
+	FIN1_CHASE = 追逐~r~崔佛~s~。
+	FIN1_DES = 放倒~r~崔佛~s~。
+	FIN1_FAIL1 = ~w~崔佛已逃离。
+	FIN1_FAIL2 = ~w~富兰克林的车已损毁。
+	FIN1_FAILDF = ~w~默认。
+	FIN1_HELP = Press ~INPUT_FRONTEND_CANCEL~ to smash Trevor.
+	FIN1_MEET = 前往~y~石油井架~s~。
+	FIN1_VEHWR = 该载具不合适。
+}

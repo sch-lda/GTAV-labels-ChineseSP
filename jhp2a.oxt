@@ -1,0 +1,15 @@
+﻿Version 2 30
+{
+	JHP2A_EXIT = ~s~离开厢型车。
+	JHP2A_EXIT2 = ~s~分离厢型车。
+	JHP2A_FCARGO = 货物丢失。
+	JHP2A_FCARGO2 = 货物被抛下。
+	JHP2A_FGOTAWAY = 厢型车跑了。
+	JHP2A_FGOTAWAY2 = 厢型车及货物被抛下。
+	JHP2A_HLP1 = 按µ~INPUT_CONTEXT~µ放下箱子。
+	JHP2A_HLP2 = 开枪射烂车门或破坏厢型车以获取货物。
+	JHP2A_RTNBZ = 将毒气手榴弹放到~y~服装厂~s~。
+	JHP2A_RTNVAN = 将厢型车停放在~y~服装厂~s~。
+	JHP2A_STEAL = 偷走~b~人道研究实验室厢型车~s~或它的货物。
+	JHP2A_TAKEBZ = 偷走一箱~g~毒气手榴弹~s~。
+}

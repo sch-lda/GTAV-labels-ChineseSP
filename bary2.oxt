@@ -1,0 +1,7 @@
+﻿Version 2 30
+{
+	B2_FAIL2 = 小丑占领了城市。
+	B2_PRIME = 杀死~r~小丑~s~。
+	B2_PRIME2 = 摧毁~r~小丑花车~s~。
+	B2_WARN = 返回~y~战斗~s~。
+}

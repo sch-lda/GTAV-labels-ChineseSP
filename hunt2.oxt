@@ -1,0 +1,38 @@
+﻿Version 2 30
+{
+	HH_FAIL6 = Trevor left the woods.
+	HH_FAIL6A = 崔佛没有遵照克莱特斯的指示。
+	HH_FAILCAR = The hunter's car was destroyed.
+	HH_FAILCARA = 麋鹿被车子吓跑了。
+	HT_APP = 靠近麋鹿的~r~尸体~s~。
+	HT_AVOID = When hunting, stay downwind of the elk.
+	HT_BAC = 回去见~b~克莱特斯~s~。
+	HT_BACK = Return to the ~y~woods.
+	HT_BADREC = 相片发错人了。再试一次。
+	HT_CALL = 使用µ~INPUT_SCRIPT_PAD_LEFT~µ发出叫声。这将暴露出该区域内的任何麋鹿。
+	HT_CHANGE = 对风向加以留意，因为风向会随着时间而改变。
+	HT_CROUCH = 麋鹿发现了崔佛。待在它的视野之外。
+	HT_DOE = 崔佛射中了母鹿。
+	HT_DUCK = 按µ~INPUT_DUCK~µ进入潜行模式。这能减弱移动时发出的声响。
+	HT_FAIL1A = 麋鹿嗅到了崔佛的气味。
+	HT_FAIL2 = 麋鹿发现了崔佛。
+	HT_FAIL3 = 麋鹿听见了崔佛发出的声音。
+	HT_FAIL4 = 克莱特斯死了。
+	HT_FAIL4A = 崔佛打伤了克莱特斯。
+	HT_FAIL5 = 崔佛抛下了克莱特斯。
+	HT_FOLLOW = 跟随~b~克莱特斯~s~。
+	HT_HEARD = 麋鹿听见了崔佛发出的声音。接近后，使用潜行以免被发现。
+	HT_INNOCENT = 崔佛滥杀无辜。
+	HT_MALE = 只向长角的公麋鹿开火。
+	HT_MISS = 崔佛没有射中麋鹿并且惊动了它们。
+	HT_NOGOOD = 这张照片拍得不够好。再拍一张。
+	HT_OBJ = 狩猎~r~麋鹿~s~。
+	HT_OBJ2 = Hunt the ~r~elk. ~w~Don't kill the doe.
+	HT_PHOTO = 给~r~尸体~s~拍照。
+	HT_REMIND = Go to ~b~Cletus.
+	HT_RETURN = 回到~r~尸体~s~那里。
+	HT_SCENT = 麋鹿嗅到了崔佛的气味。始终尝试待在猎物的下风处。
+	HT_SENDPIC = 将这张相片发送给克莱特斯。
+	HT_WGUN = 崔佛使用了错误的枪。
+	HT_WIND = 箭头表示风向。
+}

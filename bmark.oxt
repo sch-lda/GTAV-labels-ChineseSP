@@ -1,0 +1,5 @@
+﻿Version 2 30
+{
+	BMARK_EXIT = 按µ~INPUT_SCRIPT_RDOWN~µ退出基准测试。
+	BMARK_FPS = FPS：~1~
+}

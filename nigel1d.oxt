@@ -1,0 +1,15 @@
+﻿Version 2 30
+{
+	N1D_CLUBDES = 高尔夫球杆被摧毁。
+	N1D_CLUBLOST = 高尔夫球杆被抛弃了。
+	N1D_COLLECT = 取得~g~高尔夫球杆~s~。
+	N1D_DONTLOSE = 赶上~r~马克·佛森堡~s~。
+	N1D_ESCAPE = 马克·佛森堡逃跑了。
+	N1D_HELP1 = 高尔夫球场上禁止使用武器和载具。
+	N1D_LOSESEC = 甩掉~r~保安~s~。
+	N1D_NOLOCATE = 无法找到马克·佛森堡。
+	N1D_RETCOUR = 返回~y~高尔夫球场~s~。
+	N1D_RETPICKUP = 返回~g~高尔夫俱乐部~s~。
+	N1D_TAKE = 偷走~r~马克·佛森堡~s~的高尔夫球杆。
+	N1D_WANTED = 甩掉警察。
+}

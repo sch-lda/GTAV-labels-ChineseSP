@@ -1,0 +1,15 @@
+﻿Version 2 30
+{
+	FAM5_FAIL = ~s~任务失败
+	FAM5_F_B1 = ~s~法比恩死了。
+	FAM5_F_CLB = ~s~麦克的车被抛下。
+	FAM5_F_E0 = ~s~吉米的朋友遭到攻击。
+	FAM5_F_E1 = ~s~吉米的朋友受到了惊吓。
+	FAM5_F_E2 = ~s~吉米的朋友死了。
+	FAM5_F_V0 = ~s~车不能开了。
+	FAM5_F_Y1 = ~s~麦克未能感悟。
+	FAM5_GT2 = ~s~去~y~吉米的房间~s~。
+	FAM5_GT3 = ~s~前往~y~吃得饱汉堡~s~。
+	FAM5_GT4 = ~s~返回~y~麦克的家~s~。
+	FAM5_HCAM = 按µ~INPUT_VEH_CIN_CAM~µ切换电影特效镜头。
+}

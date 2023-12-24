@@ -1,0 +1,7 @@
+﻿Version 2 30
+{
+	O1_FAILHURT = 欧米加受伤了。
+	O1_FAILKILL = 欧米加死了。
+	O1_FAILSCARE = 欧米加受到了惊吓。
+	O1_LEAVEAREA = 离开该区域。
+}

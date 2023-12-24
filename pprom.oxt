@@ -1,0 +1,10 @@
+﻿Version 2 30
+{
+	BK_PLANE = 回到~b~飞机~s~上。
+	FLY_DROP = 在每个~y~促销专区中~s~丢下促销传单。
+	GET_PLANE = 乘上~b~飞机~s~。
+	LAND = 落地后将飞机开回~y~机库~s~。
+	LEAFLET = 使用µ~INPUT_VEH_FLY_ATTACK~µ切换空投的传单。
+	START = 前往~y~机场~s~。
+	TAKEOFF = 启程后前往其中一个~y~促销专区~s~。
+}

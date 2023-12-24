@@ -1,0 +1,28 @@
+﻿Version 2 30
+{
+	ASS_HK_ABAND = ~s~已放弃任务。~s~
+	ASS_HK_BASE = 基础奖励
+	ASS_HK_BDESC = 安全逃离奖励
+	ASS_HK_CASH = 赚取金额
+	ASS_HK_COMP = 完成
+	ASS_HK_COMPB = 完成：铜牌
+	ASS_HK_COMPG = 完成：金牌
+	ASS_HK_COMPN = 完成：无奖牌
+	ASS_HK_COMPS = 完成：银牌
+	ASS_HK_CONT = 继续
+	ASS_HK_COPS = ~s~甩掉警察。~s~
+	ASS_HK_COVER = ~s~富兰克林已经暴露身份。~s~
+	ASS_HK_DESTBLIP = 费兰格车道
+	ASS_HK_DIED = ~s~富兰克林已死亡。~s~
+	ASS_HK_FAILWARN = ~s~返回该区域。
+	ASS_HK_HELP1 = ~s~靠这么近的话，目标不会接近妓女。离那个姑娘远点，让目标接近她。~s~
+	ASS_HK_IDT = ~s~妓女会进入目标的车。盯住她进的那辆车，杀掉司机。~s~
+	ASS_HK_LEAVE = ~s~离开该区域。~s~
+	ASS_HK_LOST = ~s~目标已经逃离。~s~
+	ASS_HK_NAME = 暗杀淫棍行动
+	ASS_HK_PASSED = 任务成功
+	ASS_HK_RT = ~s~回去见~b~女孩~s~。
+	ASS_HK_TIMER = 所花费时间
+	ASS_HK_WAIT = ~s~监视~b~妓女~s~。
+	ASS_HK_WAIT2 = ~s~暗杀~r~目标~s~。
+}

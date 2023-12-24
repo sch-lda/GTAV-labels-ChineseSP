@@ -1,0 +1,33 @@
+﻿Version 2 30
+{
+	SNK_AFFORD = 抱歉，您负担不起此物品的费用。
+	SNK_BOUGHT = 已购买物品。
+	SNK_DRK1FU = 您无法携带更多易可乐。
+	SNK_DRK2FU = 您无法携带更多尿汤啤。
+	SNK_DRK7FU = 您无法携带更多霜碧。
+	SNK_FREE = 免费
+	SNK_FULL = 全满
+	SNK_ITEM = 物品
+	SNK_ITEM1 = PQµ豆
+	SNK_ITEM1_D = 孩童和瘾君子爱吃的糖果。
+	SNK_ITEM2 = 宝力旺
+	SNK_ITEM2_D = 为您量身打造的能量棒。
+	SNK_ITEM3 = 麦提来
+	SNK_ITEM3_D = 软心黑巧克力。
+	SNK_ITEM4 = 红木香烟
+	SNK_ITEM4_D = 造就了美国的香烟。
+	SNK_ITEM5 = 易可乐
+	SNK_ITEM5_D = 好喝到上瘾的汽水。
+	SNK_ITEM6 = 尿汤啤
+	SNK_ITEM6_D = 巴伐利亚战斗啤酒。
+	SNK_ITEM7 = 霜碧
+	SNK_ITEM7_D = 罐子中的生命精华。
+	SNK_LIFT = 行窃
+	SNK_NEEDED = 生命值已满。
+	SNK_SMOKFU = 您无法携带更多香烟。
+	SNK_SNK1FU = 您无法携带更多µPQµ豆。
+	SNK_SNK2FU = 您无法携带更多宝力旺
+	SNK_SNK3FU = 您无法携带更多麦提来。
+	SNK_SOUT = 此物品已售罄。
+	SNK_STORED = 零食已添加到您的物品栏。
+}

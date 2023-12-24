@@ -1,0 +1,25 @@
+﻿Version 2 30
+{
+	CH_000 = 完成µ~1~µ次击杀
+	CH_001 = 完成µ~1~µ次爆头
+	CH_003 = 摧毁µ~1~µ辆载具
+	CH_008 = 摧毁µ~1~µ辆坦克
+	RAMPAGE = ~l~疯狂杀戮
+	RO_RATE = 评价
+	RPASSED = ~y~通过
+	TR_FAIL = 崔佛未能消灭足够的目标。
+	TR_HKILL = ~r~击杀数~s~
+	TR_HTIME = 时间
+	TR_RAMP1 = 疯狂杀戮：乡巴佬
+	TR_RAMP2 = 疯狂杀戮：维戈斯帮
+	TR_RAMP3 = 疯狂杀戮：巴勒帮
+	TR_RAMP4 = 疯狂杀戮：军方
+	TR_RAMP5 = 疯狂杀戮：嬉皮士
+	TR_RAMPM = 疯狂杀戮
+	TR_ROBJ1 = 干掉µ~1~µ个µ~a~。
+	TR_RTGT1 = 乡巴佬
+	TR_RTGT2 = 杀手嬉皮士
+	TR_RTGT3 = 帮派成员
+	TR_RTGT4 = 帮派成员
+	TR_RTGT5 = 士兵
+}

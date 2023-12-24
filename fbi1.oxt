@@ -1,0 +1,30 @@
+﻿Version 2 30
+{
+	FBI1_FAIL_0 = ~s~富兰克林已死亡。~s~
+	FBI1_FAIL_1 = 被盯得太紧，无法执行差事。~s~
+	FBI1_FAIL_2 = ~s~麦克已暴露。~s~
+	FBI1_FAIL_3 = ~s~麦克已死亡。~s~
+	FBI1_GOD_1 = ~s~在停尸房中搜寻~g~尸体~s~。
+	FBI1_GOD_2 = ~s~干掉µ~r~IAAµ官员~s~。
+	FBI1_GOD_3 = ~s~前往~y~顶楼~s~。
+	FBI1_GOD_4 = ~s~从~y~窗户~s~逃脱。
+	FBI1_GOD_5 = ~s~跳入~y~洗衣店卡车~s~。
+	FBI1_GOD_6 = ~s~前往~y~石油井架~s~。
+	FBI1_GOD_7 = ~s~逃出~y~大楼~s~。
+	FBI1_GOD_8 = ~s~逃出~y~大楼~s~。
+	FBI1_GOD_9 = ~s~离开载具。~s~
+	FBI1_GOD_10 = ~s~从~y~袋子~s~里取得您的个人物品。
+	FBI1_GOD_11 = ~s~获得~r~探员~s~的武器。~s~
+	FBI1_GOD_12 = ~s~打碎~y~窗户~s~逃出去。~s~
+	FBI1_GOD_13 = 死尸
+	FBI1_GOD_14 = 从~y~窗户~s~爬出去。
+	FBI1_HELP1 = ~s~按µ~INPUT_SKIP_CUTSCENE~µ醒过来。~s~
+	FBI1_HELP2 = ~s~电梯暂停使用。~s~
+	FBI1_HELP3 = ~s~按µ~input_jump~µ跳跃。~s~
+	FBI1_HELP4 = ~s~黄色条代表着麦克的特殊能力等级。同时按µ~INPUT_SPECIAL_ABILITY~µ+µ~INPUT_SPECIAL_ABILITY_SECONDARY~µ放慢时间。~s~
+	FBI1_HELP4_KM = ~s~黄色条代表着麦克的特殊能力等级。按µ~INPUT_SPECIAL_ABILITY_PC~µ放慢时间。~s~
+	FBI1_HELP5 = ~s~当麦克运用致命攻击（如爆头和潜行暗杀）时，他的特殊能力条将充满。
+	FBI1_HELP6 = ~s~按µ~input_jump~µ爬到窗外。~s~
+	FBI1_PASS = 任务成功
+	FBI_FAIL1 = 任务失败
+}

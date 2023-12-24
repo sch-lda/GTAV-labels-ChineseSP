@@ -1,0 +1,20 @@
+﻿Version 2 30
+{
+	B3CCBDEST = 运兵直升机被摧毁。
+	B3CCBSTUCK = 运兵直升机被困。
+	B3CDELV = 前往巴里的~y~公寓~s~。
+	B3CENTV = 乘上~b~藏匿毒品的车~s~。
+	B3CGBTB = 重新钩住~b~藏匿毒品的车~s~。
+	B3CLEAVE = 离开该区域。
+	B3CNOGO = 想办法移动~b~藏匿毒品的车~s~。
+	B3CREVRS = 钩住~b~藏匿毒品的车~s~。
+	B3CRTCB = 回到~b~运兵直升机~s~上。
+	B3CRTTT = 返回~b~拖吊车~s~。
+	B3CTTHA = 按住µ~INPUT_VEH_HEADLIGHT~µ放开牵拖的载具。
+	B3CTTHB = 对准车头或车尾将其钩住。使用µ~INPUT_VEH_MOVE_UD~µ降下或抬起吊臂。
+	B3CTWDEST = 拖吊车已损毁。
+	B3CTWSTUCK = 拖吊车被困住了。
+	B3CVHDEST = 藏匿毒品的车被摧毁。
+	B3CVHSTUCK = 藏匿毒品的车被困。
+	B3CWAN1 = 甩掉警察。
+}

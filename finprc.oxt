@@ -1,0 +1,14 @@
+﻿Version 2 30
+{
+	PRF_BUYPREP = 购买差事所需的载具改装部件。
+	PRF_CASH = 由于资金不足，您无法购买所需改装部件。
+	PRF_FFAR = 脱身载具被遗弃。
+	PRF_FKICKOFF = 无法购买所需改装部件。
+	PRF_FSTUCK = 脱身载具被困。
+	PRF_FWRECK = 脱身载具被摧毁。
+	PRF_GARAGE = 将脱身载具开往~y~车库。
+	PRF_LEAVE = 将载具停到车库。
+	PRF_LEV = 离开洛圣都改车王。
+	PRF_RETVEH = 返回~b~脱身载具~s~。
+	PRF_TAKBACK = 将脱身载具开往~y~洛圣都改车王。
+}

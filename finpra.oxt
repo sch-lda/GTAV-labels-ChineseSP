@@ -1,0 +1,14 @@
+﻿Version 2 30
+{
+	PR_AREAWARN = 回去偷~b~警用厢型车~s~。
+	PR_FLEFT = 离开了警察局。
+	PR_FLEFTV = 警用厢型车被遗弃。
+	PR_FSTUCK = 警用厢型车被困。
+	PR_FWRECK = 警用厢型车被摧毁。
+	PR_GOVEH = 偷走~b~警用厢型车~s~。
+	PR_HELCOP = 里面安装了胎刺的汽车是用来应对µ911µ电话的。分散警察注意力，强迫他们离开载具。
+	PR_LEVVEH = 离开警用厢型车。
+	PR_RETVEH = 返回~b~警用厢型车~s~。
+	PR_TAKBACK = 将警用厢型车开到~y~隐藏处~s~。
+	PR_VANWARN = 回到~b~警用厢型车~s~上。
+}

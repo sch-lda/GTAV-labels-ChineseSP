@@ -1,0 +1,38 @@
+﻿Version 2 30
+{
+	0x3A97D6FB = 需要进行距离补正才能命中目标。放大锁定目标以便计算距离补正。
+	0x451B14DB = 干掉~r~目标~s~。
+	2SLOW = 飞机距离机场过近。
+	BFCHASE = 跟随飞机，拿取包裹。
+	BFDAMAGE = 射击~r~飞机引擎~s~。
+	BFDRIVE = 前往~y~天文台~s~。
+	BFFLOST = 崔佛离开飞机太远。
+	BFGETIN = 找到一辆载具或回到~b~摩托车~s~上。
+	BFHELP10 = Press ~INPUT_PHONE~ to bring up the phone.
+	BFHELPTXT2 = 按µ~INPUT_VEH_CIN_CAM~µ将视野集中在飞机上。
+	BFHELPTXT4 = 瞄准经过计算对距离进行补正的红色目标。
+	BFVIEW = 前往~y~观察点~s~。
+	CALL1 = 给富兰克林打电话。
+	M1_FAIL1 = ~s~遥控式狙击步枪被摧毁了。
+	M1_FAIL2 = ~s~麦克放弃了厢型车。
+	M1_FAIL3 = ~s~崔佛死了。
+	M1_FAIL4 = ~s~麦克死了。
+	M1_FAIL5 = ~s~崔佛的车已损毁。
+	M1_FAIL6 = ~s~麦克摧毁厢型车的地方距离天文台过近。
+	M1_GOD1 = ~s~进入~b~飞机~s~。
+	M1_GOD2 = ~s~干掉~r~哈维尔~s~。
+	M1_GOD3 = ~s~甩掉警察。
+	M1_GOD4 = ~s~摧毁~r~厢型车~s~。
+	M1_GOD5 = ~s~离开该区域。
+	M1_HELP1 = ~s~使用µ~INPUT_SNIPER_ZOOM~µ进行瞄准镜缩放
+	M1_HELP2 = ~s~使用µ~INPUTGROUP_LOOK~µ移动狙击枪
+	M1_HELP3 = ~s~需要命中数枪才能击落飞机。
+	SNIPE1 = 使用狙击枪应用。
+	SNIPE3 = 未能在飞机飞离之前及时激活远程狙击枪。
+	SNIPE4 = 在错失时机前尽快把飞机击落。
+	SNIPE5 = ~s~前往~y~马丁的家~s~。
+	SNIPE6 = ~s~将狙击枪送到~y~存放处~s~。
+	SNIPE7 = ~s~与崔佛在~y~水泥厂~s~碰头。
+	SNIPE8 = ~s~进入~b~厢型车~s~。
+	SNIPE9 = ~s~返回~b~厢型车~s~。
+}

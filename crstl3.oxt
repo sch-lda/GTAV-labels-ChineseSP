@@ -1,0 +1,37 @@
+﻿Version 2 30
+{
+	S3_BLIPVEH = 载具
+	S3_COP = ~s~让他们停车，然后把~b~车~s~抢走。
+	S3_DRIVE = ~s~开到~y~车库~s~去。
+	S3_FAIL = ~s~任务失败~s~
+	S3_FBIKEABAN = ~s~摩托车被遗弃。~s~
+	S3_FBIKEDAMT = ~s~崔佛的摩托车已受损。
+	S3_FBIKEDEST = ~s~摩托车被摧毁。
+	S3_FBIKEDESTT = ~s~崔佛的摩托车已损毁。
+	S3_FCARABAN = ~s~汽车被遗弃。~s~
+	S3_FDEVINCAR = ~s~德温的车被摧毁了。
+	S3_FDEVINDIED = ~s~德温死了。
+	S3_FDISRACE = ~s~You crashed the racer out.
+	S3_FDMGCAR = ~s~汽车受损了。
+	S3_FLOSTRACE = ~s~车手逃走了。~s~
+	S3_FRACERDIED = ~s~车手死了。~s~
+	S3_FRACERLEFT = ~s~车手离开了加油站。
+	S3_FSHOTDEVCAR = ~s~德温的车受损了。
+	S3_FSHOTDEVIN = ~s~德温受伤了。
+	S3_FSHOTRACER = ~s~车手受伤了。
+	S3_FSHOTTREVOR = ~s~崔佛受伤了。
+	S3_FSPKDRACER = ~s~车手受到了惊吓。
+	S3_FSTUCKCAR = ~s~汽车卡住了。
+	S3_GETIN = ~s~骑上~b~摩托车~s~。
+	S3_GOTO = ~s~前往~y~加油站~s~。
+	S3_HELP1 = ~s~Hold ~INPUT_VEH_CIN_CAM~ for chase camera.~s~
+	S3_HELP2 = ~s~按µ~INPUT_VEH_CIN_CAM~µ将镜头切换到车手。~s~
+	S3_INTRO = 富兰克林、麦克和崔佛到达洛圣都改车王。~n~德温和他的律师告诉了他们要偷的车，两辆属于信托基金富家哥儿的车。~n~富兰克林得在一个穷乡僻壤的地方，用街头竞速的方式挑战他们。~n~麦克和崔佛先行离开，装扮成高速公路巡警，然后在高速公路上以超速为由拦住他们。~n~富兰克林出来后进到德温提供的车里。~s~
+	S3_OUTRO = 德温和他的律师在车库。~n~下一辆车是属于一个避世不出的音乐制作人所有。~n~用他驾照里的芯片找到他。~n~德温在警察那边的内线可以用直升机扫描芯片信号，~n~但必须有人开展地面行动。~n~崔佛去搞定直升机，富兰克林去开展地面行动。~n~德温说了，所有偷车任务都完成后才付钱。~s~
+	S3_OVER = ~s~同时按µ~INPUT_SPECIAL_ABILITY~µ和µ~INPUT_SPECIAL_ABILITY_SECONDARY~µ可以激活富兰克林的特殊能力。~s~
+	S3_OVER_KM = ~s~按µ~INPUT_SPECIAL_ABILITY_PC~µ启用富兰克林的特殊能力。~s~
+	S3_PASS = ~s~任务完成~s~
+	S3_RACE = ~s~跟~b~这两台车~s~飙车。
+	S3_RACEHOME = ~s~使用切换功能选择飞车回来的角色。~s~
+	S3_STOP = ~s~在那些~b~车~s~后面的路边停车。
+}

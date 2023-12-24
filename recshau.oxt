@@ -1,0 +1,34 @@
+﻿Version 2 30
+{
+	RECSH_BACKIF = 100
+	RECSH_BACKLF = 1100000
+	RECSH_BACKSL = 490
+	RECSH_BACK_1 = ~z~操，操，我们又被抢了！
+	RECSH_BACK_1A = RECSH_AJAA
+	RECSH_FIREA = RECSH_AIAA
+	RECSH_FIREIF = 100
+	RECSH_FIRELF = 1100000
+	RECSH_FIRESL = 391
+	RECSH_FIRE_01 = ~z~嘿，你认为我在开玩笑嘛？开枪干掉你个王八蛋！
+	RECSH_FIRE_02 = ~z~好吧，干掉他！
+	RECSH_FIRE_03 = ~z~干掉那个王八蛋！
+	RECSH_FIRE_04 = ~z~我受够了。妈的我要把他脑袋崩开花！
+	RECSH_GOAWA = RECSH_AGAA
+	RECSH_GOAWIF = 100
+	RECSH_GOAWLF = 1002000
+	RECSH_GOAWSL = 391
+	RECSH_GOAW_01 = ~z~喂，伙计！快他妈离开这！
+	RECSH_GOAW_02 = ~z~你是谁？你在这里做什么？
+	RECSH_GOAW_03 = ~z~要么滚要么死，操你妈的！
+	RECSH_GOAW_04 = ~z~你想被一枪打爆头吗？快他妈滚。
+	RECSH_GOAW_05 = ~z~嘿，快点转身滚蛋，伙计！
+	RECSH_GOAW_06 = ~z~这事跟你无关，伙计。我要是你就赶紧开溜。
+	RECSH_GOAW_07 = ~z~嘿，快他妈滚，要么就死在这里。
+	RECSH_STASHA = RECSH_AHAA
+	RECSH_STASHIF = 100
+	RECSH_STASHLF = 1100000
+	RECSH_STASHSL = 391
+	RECSH_STASH_01 = ~z~嘿，他想洗劫我们的货，伙计！
+	RECSH_STASH_02 = ~z~操，伙计，他冲着钱来了！
+	RECSH_STASH_03 = ~z~那个王八蛋想抢我们！
+}

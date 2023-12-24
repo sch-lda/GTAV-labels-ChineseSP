@@ -1,0 +1,11 @@
+﻿Version 2 30
+{
+	PAP_HLP = ~s~阻止~r~狗仔队~s~将照片上传，并且不能杀死他们。
+	PKUP_FILM = ~s~取回~g~电影胶卷~s~。
+	PKUP_MON = ~s~取回~g~金钱~s~。
+	PKUP_PAP = ~s~取回~g~摄像头~s~和~g~智能手机~s~。
+	STOP_THIEF_FILM = ~s~阻止~r~电影盗版人~s~逃跑。
+	STOP_THIEF_MON = ~s~阻止~r~小偷~s~逃跑。
+	STOP_THIEF_PAP = ~s~阻止~r~狗仔队~s~逃跑。
+	UPLOAD = ~s~上传
+}

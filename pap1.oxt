@@ -1,0 +1,21 @@
+﻿Version 2 30
+{
+	PAP1_01 = 与~b~米兰达的车~s~并肩行驶。
+	PAP1_03 = 阻止~r~竞争方狗仔队~s~。
+	PAP1_05 = 送比佛利去他的下一处~y~取材地点~s~。
+	PAP1_06 = 回到~b~比佛利的摩托车~s~上。
+	PAP1_08 = 回去找~b~比佛利~s~。
+	PAP1_09 = 甩掉警察。~s~
+	PAP1_10 = 骑上~b~比佛利的摩托车~s~。
+	PAP1_F1 = ~w~米兰达死了。~s~
+	PAP1_F2 = ~w~米兰达逃跑了。~s~
+	PAP1_F3 = ~w~比佛利的摩托车被摧毁。~s~
+	PAP1_F4 = ~w~比佛利死了。~s~
+	PAP1_F5 = ~w~竞争方狗仔队逃跑了。~s~
+	PAP1_F6 = ~w~比佛利被抛下。~s~
+	PAP1_F7 = ~w~富兰克林攻击了米兰达。~s~
+	PAP1_F9 = ~w~比佛利受到了惊吓。~s~
+	PAP1_H1 = 骑到竞争方狗仔队的边上，让比佛利把他撞倒。~s~
+	PAP1_H2 = ~s~同时按µ~INPUT_SPECIAL_ABILITY~µ和µ~INPUT_SPECIAL_ABILITY_SECONDARY~µ可以激活富兰克林的特殊能力。~s~
+	PAP1_H2_KM = ~s~按µ~INPUT_SPECIAL_ABILITY_PC~µ启用富兰克林的特殊能力。~s~
+}

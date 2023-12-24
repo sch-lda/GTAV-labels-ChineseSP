@@ -1,0 +1,19 @@
+﻿Version 2 30
+{
+	MPSV_RUNA = MPSV_AAAA
+	MPSV_RUNIF = 100
+	MPSV_RUNLF = 1100000
+	MPSV_RUNSL = 890
+	MPSV_RUN_01 = ~z~去他妈的！这辆货车归你了，你想做什么都随你便！
+	MPSV_RUN_02 = ~z~我拿工资可没说要做这事，这辆货车归你了。
+	MPSV_RUN_03 = ~z~这辆货车你拿去吧，反正我他妈也一点都不在乎！
+	MPSV_RUN_04 = ~z~拿去吧，拜托了......只要你不杀我就好。
+	MPSV_RUN_05 = ~z~它完全归你了，兄弟。
+	MPSV_RUN_06 = ~z~拿去吧！求你了......
+	MPSV_RUN_07 = ~z~给......给你。
+	MPSV_RUN_08 = ~z~给......好好享受......只要别杀我就好。
+	MPSV_RUN_09 = ~z~拿走吧，拜托。
+	MPSV_RUN_10 = ~z~拿走吧......别跟我客气......
+	MPSV_RUN_11 = ~z~给你，快拿去吧。
+	MPSV_RUN_12 = ~z~只要别杀我就好，求你了。
+}

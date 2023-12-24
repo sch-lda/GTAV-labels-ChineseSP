@@ -1,0 +1,31 @@
+﻿Version 2 30
+{
+	ASS_CS_ABAND = ~s~已放弃任务。~s~
+	ASS_CS_BASE = 基础奖励
+	ASS_CS_BDESC = 禁飞区奖励
+	ASS_CS_CASH = 赚取金额
+	ASS_CS_COMP = 完成
+	ASS_CS_COMPB = 完成：铜牌
+	ASS_CS_COMPG = 完成：金牌
+	ASS_CS_COMPN = 完成：无奖牌
+	ASS_CS_COMPS = 完成：银牌
+	ASS_CS_CONT = 继续
+	ASS_CS_DIED = ~s~富兰克林已死亡。~s~
+	ASS_CS_EHELP = ~s~使用µ~INPUTGROUP_LOOK~µ四处观看，使用µ~INPUTGROUP_MOVE~µ缩放。
+	ASS_CS_EHELP1 = ~s~寻找电梯然后前往楼顶。~s~
+	ASS_CS_ELEHELP = ~s~按µ~INPUT_CONTEXT~µ开启电梯。~s~
+	ASS_CS_ESCAPED = ~s~目标已经逃离。~s~
+	ASS_CS_GOSITE = ~s~前往~y~建筑工地~s~。
+	ASS_CS_KILL = ~s~暗杀~r~目标~s~。
+	ASS_CS_NAME = 建筑工地
+	ASS_CS_PARA = ~s~离开该区域。~s~
+	ASS_CS_PARA2 = ~s~在空中按µ~INPUT_PARACHUTE_DEPLOY~µ打开降落伞。~s~
+	ASS_CS_PASSED = 任务成功
+	ASS_CS_REMIND = ~s~您已暗杀目标。请采取任何必要措施离开该区域。~s~
+	ASS_CS_ROOF = ~s~前往~y~屋顶~s~。
+	ASS_CS_RTNR = ~s~返回并搜索目标。~s~
+	ASS_CS_RTNY = ~s~返回~y~建筑工地~s~。
+	ASS_CS_STATION = 建筑工地
+	ASS_CS_TARGET = 目标
+	ASS_CS_TIMER = 所花费时间
+}

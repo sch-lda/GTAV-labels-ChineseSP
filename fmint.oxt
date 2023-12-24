@@ -1,0 +1,19 @@
+﻿Version 2 30
+{
+	CUT_VOT = ~s~当足够的玩家站在差事触发点内并按µ~INPUT_SPRINT~µ投票后，GTAµ在线模式差事即将开始。
+	GET_AMMU = ~s~前往武装国度。
+	GET_GUN = ~s~购买一把手枪。
+	GET_SHOOT = ~s~前往靶场竞技。
+	HLP_CASHGEN = 现金是µGTAµ在线模式中成功的关键。购买公寓、载具并和其他人享受各种娱乐活动。通过完成差事或者从商店购买µGTAµ游戏币可以获得现金。
+	HLP_CASHPSN = 游戏币是µGTAµ在线模式中成功的关键。购买公寓、载具并和其他人享受各种娱乐活动。通过完成差事或从µPlayStation®Storeµ购买µGTAµ游戏币可以获得游戏币。
+	HLP_FEED = 请注意雷达上方的消息源，以接收重要在线消息。
+	HLP_RNK1 = 您的等级显示在屏幕顶部。您可以按µ~INPUT_HUD_SPECIAL~µ显示自己的等级。
+	HLP_SOC1 = 访问µ~HUD_COLOUR_SOCIAL_CLUB~rockstargames.com~s~µ查看进度并与其他玩家进行比较。
+	HLP_SOC2 = 访问µ~HUD_COLOUR_SOCIAL_CLUB~rockstargames.com~s~µ加入帮会。您还可以查看进度并与其他玩家进行比较。
+	HLP_TAXI = ~s~您可以用您的手机叫一辆出租车。
+	HLP_TAXI3 = 访问µ~HUD_COLOUR_SOCIAL_CLUB~rockstargames.com~s~µ加入µRockstarµGamesµ和帮会。您也可以查看自己的进度，与其他玩家进行比较。
+	HLP_XP1 = 游戏中，您会获得声望值µ(RP)。执行差事并干掉敌人会提高您的声望值。
+	HLP_XP2 = 声望值提高后，您的等级也会提高。这将会解锁新的武器、装备和能力。
+	LEV_AMMU = ~s~离开武装国度。
+	LOSE_COP = ~s~甩掉警察。
+}

@@ -1,0 +1,23 @@
+﻿Version 2 30
+{
+	0x58F69F5C = 制毒工厂内崔佛、陈、翻译和大厨的动作捕捉过场动画。
+	METH_FAIL_0 = 陈死了。~s~
+	METH_FAIL_1 = 翻译死了。~s~
+	METH_FAIL_3 = 大厨死了。~s~
+	METH_FAIL_5 = 陈和他的翻译被抛下。~s~
+	METH_FAIL_6 = ~s~陈被抛下。~s~
+	METH_FAIL_7 = ~s~翻译被抛下。~s~
+	METH_GOD_0 = ~s~干掉~r~奥尔特加的手下~s~。
+	METH_GOD_1 = ~s~跟随~b~大厨~s~去外面。
+	METH_GOD_3 = ~s~跟随~b~大厨~s~。
+	METH_GOD_8 = ~s~前往~y~制毒工场~s~。
+	METH_GOD_11 = ~s~任务完成~s~
+	METH_GOD_12 = ~s~回去找~b~陈~s~。
+	METH_GOD_13 = ~s~回去找~b~翻译~s~。
+	METH_GOD_14 = ~s~回去找~b~陈~s~和他的~b~翻译~s~。
+	METH_GOD_18 = ~s~回去找~b~大厨~s~。
+	METH_GOD_18G = ~s~靠近~b~大厨~s~。
+	METH_GOD_20 = ~s~前往~y~冰柜~s~。
+	METH_HELP_T = 黄色条代表崔佛的特殊能力等级。同时按µ~INPUT_SPECIAL_ABILITY~µ和µ~INPUT_SPECIAL_ABILITY_SECONDARY~µ可使崔佛进入暴走状态，大幅降低他受到的伤害，并对敌人造成更高伤害。
+	METH_HELP_T_KM = 黄色条代表着崔佛的特殊能力等级。按µ~INPUT_SPECIAL_ABILITY_PC~µ可使崔佛暴怒，大幅降低其所受伤害，并对敌人造成更高伤害。
+}

@@ -1,0 +1,34 @@
+﻿Version 2 30
+{
+	SMGFZ_FLY1STIF = 100
+	SMGFZ_FLY1STLF = 110200011000001102000
+	SMGFZ_FLY1STSL = 291010291
+	SMGFZ_FLY1ST_1 = ~z~欢迎来到桑库多堡垒飞行区域。您拥有低等级的进出通行证。
+	SMGFZ_FLY1ST_1A = SMGFZ_AAAA
+	SMGFZ_FLY1ST_2A = SFX_PAUSE_360
+	SMGFZ_FLY1ST_3 = ~z~降落并直接前往您的机库。
+	SMGFZ_FLY1ST_3A = SMGFZ_AAAB
+	SMGFZ_FLYENTA = SMGFZ_ABAA
+	SMGFZ_FLYENTIF = 100
+	SMGFZ_FLYENTLF = 1102000
+	SMGFZ_FLYENTSL = 291
+	SMGFZ_FLYENT_01 = ~z~已批准进入飞行区域。请前往机库。
+	SMGFZ_FLYENT_02 = ~z~您已获得进入飞行区域的许可。请前来机库。
+	SMGFZ_FLYENT_03 = ~z~好的，您可以降落了。请前来机库。
+	SMGFZ_FLYENT_04 = ~z~已授权进入飞行区域。请前去机库。
+	SMGFZ_FLYENT_05 = ~z~您要进入机库吗？准许进入。
+	SMGFZ_WLK1STIF = 100
+	SMGFZ_WLK1STLF = 1102000
+	SMGFZ_WLK1STSL = 291
+	SMGFZ_WLK1ST_1 = ~z~是基地机库的新拥有者。请授予进出许可。
+	SMGFZ_WLK1ST_1A = SMGFZ_ACAA
+	SMGFZ_WLKENTA = SMGFZ_ADAA
+	SMGFZ_WLKENTIF = 100
+	SMGFZ_WLKENTLF = 1102000
+	SMGFZ_WLKENTSL = 291
+	SMGFZ_WLKENT_01 = ~z~此人拥有进出基地的许可。准许进入。
+	SMGFZ_WLKENT_02 = ~z~准许进入。此人拥有进出基地机库的许可。
+	SMGFZ_WLKENT_03 = ~z~此人正前往机库。已授予低等级的基地进出许可。
+	SMGFZ_WLKENT_04 = ~z~这位是平民机库的拥有者。允许进入基地。
+	SMGFZ_WLKENT_05 = ~z~这人拥有平民进出许可。欢迎来到基地。
+}

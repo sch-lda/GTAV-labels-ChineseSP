@@ -1,0 +1,33 @@
+﻿Version 2 30
+{
+	YB_BLEWCOV = ~s~富兰克林已经暴露身份。
+	YB_BLEWSHOP = ~s~您未能成功修理车辆。
+	YB_DIA2 = ~s~我操，别让这混蛋靠近我！！
+	YB_FAIL = ~s~麦克未能及时救下所有人。
+	YB_FAIL1 = ~s~吉米死了。
+	YB_FAIL2 = ~s~阿曼达的车被遗弃。
+	YB_FAIL3 = ~s~游艇被弄丢了。
+	YB_FOCUS = ~s~按µ~INPUT_VEH_CIN_CAM~µ将视线对准游艇。
+	YB_GETIN = ~s~乘上~b~阿曼达的车~s~。
+	YB_GETTO = ~s~前往~y~太平洋峭壁~s~。
+	YB_HELP1 = ~s~稳住载具让富兰克林跳过去。
+	YB_HELP3 = ~s~按µ~INPUT_VEH_CIN_CAM~µ切换电影特效镜头。
+	YB_HELP4 = ~s~按住µ~INPUT_VEH_AIM~µ在驾车时进行射击。使用µ~INPUTGROUP_LOOK~µ瞄准。
+	YB_HELP4ALT = ~s~按住µ~INPUT_VEH_AIM~µ时使用µ~INPUTGROUP_LOOK~µ可在驾驶时进行射击。按住µ~INPUT_VEH_ATTACK~µ进行射击。
+	YB_HELP4B = ~s~按µ~INPUT_VEH_AIM~µ在驾车时进行射击。按住µ~INPUT_VEH_AIM~µ瞄准敌人。
+	YB_HELPJ = ~s~开到吉米身下并稳住载具。
+	YB_OBJ1 = ~s~追赶~b~游艇~s~。
+	YB_OBJ1B = ~s~帮富兰克林靠近~b~游艇~s~。
+	YB_OBJ1C = ~s~跟紧~b~富兰克林~s~。
+	YB_OBJ2 = ~s~向~r~窃贼~s~开火。
+	YB_OBJ2B = ~s~在~r~窃贼~s~够到吉米之前向他开火。
+	YB_OBJ3 = ~s~接住~b~吉米~s~。
+	YB_OBJ4 = ~s~接住~b~富兰克林~s~。
+	YB_OBJ5 = ~s~前往~y~洛圣都改车王~s~。
+	YB_OBJ6 = ~s~把阿曼达的车修好。
+	YB_OBJ7 = ~s~前往~y~麦克的家~s~。
+	YB_RAGE = ~s~黄色条代表着麦克的愤怒等级。黄色条充满时，麦克就可以使用自己的特殊能力了。
+	YB_RAGEBAR = ~s~麦克具有一项特殊能力。同时按µ~n~~INPUT_SPECIAL_ABILITY~µ和µ~INPUT_SPECIAL_ABILITY_SECONDARY~µ可以强化麦克的射击能力。
+	YB_TAXI = ~s~按µ~INPUT_CONTEXT~µ可以打出租车
+	YB_WARN1 = ~s~~b~游艇~s~就要被劫走了。
+}

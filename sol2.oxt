@@ -1,0 +1,9 @@
+﻿Version 2 30
+{
+	SOL2_FGOTAWAY = ~s~洛可逃走了。
+	SOL2_FSOLDEAD = ~s~所罗门死了。
+	SOL2_GOTOSTU = ~s~前往~y~所罗门的办公室~s~。
+	SOL2_KILL = 杀掉~r~洛可~s~。
+	SOL2_LEAVEA = 离开该区域。
+	SOL2_PHONE = 是否前往办公室？
+}

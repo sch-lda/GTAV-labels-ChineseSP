@@ -1,0 +1,16 @@
+﻿Version 2 30
+{
+	JHP1B_ABAN = 麦克未能获取厢型皮卡。
+	JHP1B_BACK_VAN = ~s~返回~b~厢式皮卡~s~。
+	JHP1B_EXIT_VAN = ~s~离开厢式皮卡。~s~
+	JHP1B_HLP_SPCL1 = ~s~黄色条代表着麦克的特殊能力等级。同时按µ~INPUT_SPECIAL_ABILITY~µ+µ~INPUT_SPECIAL_ABILITY_SECONDARY~µ放慢时间。~s~
+	JHP1B_HLP_SPCL1_KM = ~s~黄色条代表着麦克的特殊能力等级。按µ~INPUT_SPECIAL_ABILITY_PC~µ放慢时间。~s~
+	JHP1B_HLP_SPCL2 = ~s~当麦克运用必杀技（如爆头和潜行暗杀）时，他的特殊能力条将充满。
+	JHP1B_RTNVAN = ~s~前往~y~服装厂~s~。
+	JHP1B_STAT = ~w~厢式皮卡到警局了。
+	JHP1B_STEAL_VAN = ~s~偷走~b~洛圣都警局特警队厢式皮卡~s~。
+	JHP1B_VAN_DEAD = ~w~厢式皮卡被摧毁。~s~
+	JHP1B_VAN_STUCK = ~w~厢式皮卡被困。~s~
+	JHP1B_WARN_ESC = ~s~不要让那辆~b~厢式皮卡~s~跑了。
+	JHP1B_WARN_LVE = ~s~不要丢下~b~厢式皮卡~s~。
+}

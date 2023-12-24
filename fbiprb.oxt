@@ -1,0 +1,12 @@
+﻿Version 2 30
+{
+	PRB_FFAR = 拖吊车被遗弃。
+	PRB_FSTUCK = 拖吊车被困。
+	PRB_FWRECK = 拖吊车被摧毁。
+	PRB_GOVAN = 偷走~b~拖吊车~s~。
+	PRB_LEVAREA = 离开该区域。
+	PRB_LEVVEH = 离开拖吊车。
+	PRB_LOSETOW = 甩掉~r~技工~s~。
+	PRB_RETVEH = 返回~b~拖吊车~s~。
+	PRB_TAKBACK = 将拖吊车运送到µ~y~FIBµ停车场~s~。
+}

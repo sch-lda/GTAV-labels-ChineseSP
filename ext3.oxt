@@ -1,0 +1,14 @@
+﻿Version 2 30
+{
+	EXT3_01 = 伞降到~b~卡车~s~上。
+	EXT3_02 = 正在离开任务区域。伞降到~b~卡车~s~上。
+	EXT3_03 = 按µ~INPUT_PARACHUTE_DEPLOY~µ打开降落伞。
+	EXT3_04 = 按µ~INPUT_VEH_CIN_CAM~µ将视野集中在卡车上。
+	EXT3_05 = 使用µ~INPUTGROUP_LOOK~µ进行观察，按µ~INPUT_JUMP~µ跳下。
+	EXT3_F1 = ~s~霸主死了。
+	EXT3_F2 = ~s~富兰克林未能成功降落到卡车上。
+	EXT3_F3 = ~s~卡车被摧毁。
+	EXT3_F4 = ~s~富兰克林未尝试跳下。
+	EXT3_F5 = ~s~霸主受到了惊吓。
+	EXT3_F6 = ~s~富兰克林没有背降落伞就从建筑物上跳下。
+}

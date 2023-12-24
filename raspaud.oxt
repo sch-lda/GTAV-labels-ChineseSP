@@ -1,0 +1,35 @@
+﻿Version 2 30
+{
+	SHRJ_0A = SH_RJ_AHAA
+	SHRJ_0IF = 100
+	SHRJ_0LF = 1100000
+	SHRJ_0SL = 290
+	SHRJ_0_01 = ~z~我怎么会拒绝你呢？
+	SHRJ_0_02 = ~z~你真是我的好熊熊！
+	SHRJ_0_03 = ~z~你是个小婊子，对吗？
+	SHRJ_0_04 = ~z~呼哧，呼哧，呼......
+	SHRJ_1A = SH_RJ_AGAA
+	SHRJ_1IF = 100
+	SHRJ_1LF = 1100000
+	SHRJ_1SL = 290
+	SHRJ_1_01 = ~z~你要是想做的话，我们定个安全口令吧。
+	SHRJ_1_02 = ~z~你真是个淘气熊熊，果酱先生。
+	SHRJ_1_03 = ~z~哇哦。按你的标准来说，我应该是香草。
+	SHRJ_1_04 = ~z~你的嘴真下流，你自己也清楚。
+	SHRJ_2A = SH_RJ_AFAA
+	SHRJ_2IF = 100
+	SHRJ_2LF = 1100000
+	SHRJ_2SL = 290
+	SHRJ_2_01 = ~z~看看你。
+	SHRJ_2_02 = ~z~你是我永远的朋友。
+	SHRJ_2_03 = ~z~邋遢的鼻子。坏小孩。
+	SHRJ_2_04 = ~z~你需要洗一洗了。
+	SHRJ_3A = SH_RJ_AIAA
+	SHRJ_3IF = 100
+	SHRJ_3LF = 1100000
+	SHRJ_3SL = 290
+	SHRJ_3_01 = ~z~你闻起来有一股海腥味。
+	SHRJ_3_02 = ~z~过会再说，你个小婊子。
+	SHRJ_3_03 = ~z~你要守口如瓶......
+	SHRJ_3_04 = ~z~你这个淘气的小熊熊。
+}

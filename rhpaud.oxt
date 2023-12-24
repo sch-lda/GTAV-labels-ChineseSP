@@ -1,0 +1,12 @@
+﻿Version 2 30
+{
+	RHP_ENDIF = 100
+	RHP_ENDLF = 100000010000001000000
+	RHP_ENDSL = 090090090
+	RHP_END_1 = ~z~好了，我们得手了。
+	RHP_END_1A = RHP_AFAA
+	RHP_END_2 = ~z~我们得手了，老崔！
+	RHP_END_2A = RHP_AFAB
+	RHP_END_3 = ~z~我们......我们成功了！
+	RHP_END_3A = RHP_AFAC
+}

@@ -1,0 +1,29 @@
+﻿Version 2 30
+{
+	SOL3_GOD1 = ~s~拾取~g~电影胶片~s~。
+	TRV4_CAR1 = ~s~乘坐载具。
+	TRV4_CHASE1 = ~s~追赶~b~莫莉~s~。
+	TRV4_CHASE2 = ~s~追赶~b~莫莉~s~。
+	TRV4_END1 = ~s~甩掉警察。
+	TRV4_FAIL1 = 莫莉逃走了。
+	TRV4_FAIL2 = 麦克飞入受限空域。
+	TRV4_FAIL3 = 莫莉死了。
+	TRV4_FAIL4 = 韦德死了。
+	TRV4_FAIL5 = 弗洛伊德死了。
+	TRV4_FAIL6 = 麦克放弃了电影胶片。
+	TRV4_GO1 = ~s~前往~y~机场~s~并找到莫莉。
+	TRV4_HELP1 = 按µ~INPUT_VEH_CIN_CAM~µ切换威泽尔新闻的直升机镜头。
+	TRV4_HELP2 = 按µ~INPUT_VEH_CIN_CAM~µ将视野集中在莫莉身上。
+	TRV4_HELP3 = 机场有受限空域。去找其他载具。
+	TRV4_NEWS1 = 重大新闻
+	TRV4_NEWS2 = 重要人物依赖警方护送，联邦财政支出突破天际
+	TRV4_NEWS3 = 洛圣都警局例行护送秒变汽车追逐战
+	TRV4_NEWS4 = 机场上演疯狂汽车追逐
+	TRV4_NEWS5 = 警方在机场制造混乱导致航机受困
+	TRV4_NEWS6 = 警方发现完好的遗失潜水艇和未提炼的铀
+	TRV4_NEWS7 = 克莱·PG·杰克森在埃普西隆托儿所开放仪式上表示"我不是埃普西隆教徒"
+	TRV4_NEWS8 = 中国人在抢下美国经济的最后一块蛋糕后心生悔意
+	TRV4_NEWS9 = 新款电子游戏难以刺激最为敏感的政客
+	TRV4_NEWS10 = 受访的六名同性恋者中竟有四人无论如何不愿结婚
+	TRV4_WARN1 = ~b~莫莉~s~就要逃走了。
+}

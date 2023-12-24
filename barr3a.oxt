@@ -1,0 +1,15 @@
+﻿Version 2 30
+{
+	B3ADELV = 前往巴里的~y~公寓~s~。
+	B3AEXIT = 离开卡车。
+	B3AGETIN = 进入~b~卡车~s~。
+	B3ALEAVE = 离开该区域。
+	B3ANOTDELV = 卡车未能送达。
+	B3ARTV = 返回~b~卡车~s~。
+	B3ARTVW = 返回~b~卡车~s~。
+	B3ATIME = 时间
+	B3ATIMEOUT = 卡车未能及时送达。
+	B3AVHDEST = 卡车被摧毁。
+	B3AVHSTUCK = 卡车被困。
+	B3AWAN1 = 甩掉警察。
+}

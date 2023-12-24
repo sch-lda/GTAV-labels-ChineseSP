@@ -1,0 +1,11 @@
+﻿Version 2 30
+{
+	JHP1A_ABAN = 麦克放弃了该任务。
+	JHP1A_BKIN = 返回~b~除虫大师厢型车~s~。
+	JHP1A_BKINANY = 返回其中一辆~b~除虫大师厢型车~s~。
+	JHP1A_STEAL_BSV = 偷走并运送~b~除虫大师厢型车~s~。
+	JHP1A_VANS_DEAD = 除虫大师厢型车无法驾驶。
+	JHP1A_VAN_ABAN = 麦克离开了除虫大师厢型车。
+	JHP1A_VAN_DEAD = 除虫大师厢型车被摧毁。
+	JHP1A_VAN_STUCK = 除虫大师厢型车被困。
+}

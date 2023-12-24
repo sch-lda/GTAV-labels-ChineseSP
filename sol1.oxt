@@ -1,0 +1,25 @@
+﻿Version 2 30
+{
+	SOL1_ALARM = 在洛可发觉之前干掉被惊动的工作人员。
+	SOL1_BEAT = 痛扁~r~洛可~s~。
+	SOL1_ELS = 前往~y~东洛圣都~s~。
+	SOL1_FAILABND = ~w~米尔顿和安东被抛下了。~s~
+	SOL1_FAILACT = ~w~米尔顿死了。~s~
+	SOL1_FAILALRM = ~w~洛可有所警觉。~s~
+	SOL1_FAILDD = ~w~安东死了。~s~
+	SOL1_FAILHE = ~w~直升机已损毁。~s~
+	SOL1_FAILLF = ~w~麦克离开了任务区域。~s~
+	SOL1_FAILROC = ~w~洛可死了。~s~
+	SOL1_FAILSCRD = ~w~米尔顿和安东被吓坏了。~s~
+	SOL1_FIGHTRT = ~s~回去见~r~洛可~s~。
+	SOL1_HELI = 在不惊动洛可的情况下抵达~y~直升机停机坪~s~。
+	SOL1_HELP1 = ~s~提高力量属性能够提高近战攻击造成的伤害，加快爬梯速度，可以承受更多伤害，并能在体育运动中有更好的表现。
+	SOL1_HELP2 = ~s~您可以通过进行近战格斗和体育运动提高力量属性。
+	SOL1_RTNANT = ~s~回去见~b~安东~s~。
+	SOL1_RTNM = ~s~返回任务区域。~s~
+	SOL1_RTNMILT = ~s~回去见~b~米尔顿~s~。
+	SOL1_SCARE = ~s~到处乱飞，让米尔顿和安东改变主意。~s~
+	SOL1_SCAREHLP = ~s~高速飞行、飞越桥底或擦过建筑物飞行来吓唬米尔顿和安东。~s~
+	SOL1_SOLDIED = ~w~所罗门死了。~s~
+	SOL1_STUDIO = 返回~y~制片厂~s~。
+}

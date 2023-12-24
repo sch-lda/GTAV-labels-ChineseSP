@@ -1,0 +1,24 @@
+﻿Version 2 30
+{
+	0x4819D4B7 = ~s~必须在两个半小时内干掉所有目标。~s~
+	ASS_ML_BASE = 基础奖励
+	ASS_ML_BDESC = 极速杀手奖励
+	ASS_ML_CASH = 赚取金额
+	ASS_ML_COMP = 完成
+	ASS_ML_COMPB = 完成：铜牌
+	ASS_ML_COMPG = 完成：金牌
+	ASS_ML_COMPN = 完成：无奖牌
+	ASS_ML_COMPS = 完成：银牌
+	ASS_ML_CONT = 继续
+	ASS_ML_COPS = ~s~甩掉警察。~s~
+	ASS_ML_DIED = ~s~富兰克林已死亡。~s~
+	ASS_ML_LOST = ~s~目标已经逃离。~s~
+	ASS_ML_MISSTIME = ~s~时间~s~
+	ASS_ML_NAME = 多重暗杀行动
+	ASS_ML_PASSED = 任务成功
+	ASS_ML_T01 = ~s~干掉~r~陪审员~s~。
+	ASS_ML_TIMEFAIL = ~s~时间用尽，无法再暗杀目标。~s~
+	ASS_ML_TIMER = 所花费时间
+	ASS_TIME = 时间
+	ASS_TIME_TK = ~s~必须在规定时间内消灭目标。~s~
+}

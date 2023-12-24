@@ -1,0 +1,15 @@
+﻿Version 2 30
+{
+	FIN2_CAR = 找一辆汽车或摩托车。
+	FIN2_CHASE = 追逐~r~麦克~s~。
+	FIN2_CHASE2 = 步行追逐~r~麦克~s~。
+	FIN2_DROP = 按µ~INPUT_SCRIPT_RDOWN~µ丢下麦克。~n~按~INPUT_SCRIPT_RRIGHT~µ救下麦克。
+	FIN2_FAIL1 = ~w~麦克逃走了。
+	FIN2_FAILDF = ~w~默认。
+	FIN2_GOD1 = ~s~离开该区域。
+	FIN2_LAD = 攀爬~r~梯子~s~找到麦克。
+	FIN2_LOST = 麦克要跑了。
+	FIN2_MEET = 去到µ~y~68µ号道路~s~与麦克会面。
+	FIN2_SPOT = 前往~y~麦克最后出现的地点~s~。
+	FIN2_VEHWR = 该载具不合适。
+}

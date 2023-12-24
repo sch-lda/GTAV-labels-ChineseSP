@@ -1,0 +1,44 @@
+﻿Version 2 30
+{
+	FH1_AIR = ~s~开往~y~机场~s~。
+	FH1_AIR2 = ~s~前往~y~机场~s~。
+	FH1_BANK = 开车去~y~银行~s~。
+	FH1_BENTR = 查看~y~后方入口~s~。
+	FH1_BKCAR = 回到~b~车~s~上。
+	FH1_BKHELI = 回到~b~直升机~s~上。
+	FH1_CAR = 进入~b~汽车~s~。
+	FH1_CLWARN = 拉开跟押运车之间的距离。
+	FH1_CSHELP = Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the construction entrance.
+	FH1_CSHELP2 = 在莱斯特收集必要信息的时候，在建筑入口附近徘徊。
+	FH1_END2 = 送富兰克林回~y~家~s~。
+	FH1_FAILBK = ~w~惊动了银行。
+	FH1_FAILDF = ~r~默认
+	FH1_FAILHD = ~w~直升机被摧毁。
+	FH1_FAILLD = ~w~莱斯特死了。
+	FH1_FAILLES = ~w~莱斯特被抛弃了。
+	FH1_FAILLT = ~w~跟丢了车队。
+	FH1_FAILTC = ~w~押运车队有所警觉。
+	FH1_FAILTI = ~w~押运车队已经进城。
+	FH1_FAILTVD = ~w~崔佛的卡车被摧毁。
+	FH1_FAILVD = ~w~麦克的车已损毁。
+	FH1_FBHELP = 按µ~INPUT_VEH_CIN_CAM~µ查看银行入口。
+	FH1_FENTR = 查看~y~前方入口~s~。
+	FH1_FILM = 按µ~INPUT_VEH_CIN_CAM~µ观看莱斯特的录像。
+	FH1_FLY = 飞往~y~穆列塔高地~s~。
+	FH1_FMIKEL = ~w~这个差事已经放弃。~s~
+	FH1_FRCAR = ~b~富兰克林~s~被抛弃了。
+	FH1_FRWARN = 接近押运车。
+	FH1_HEADBKF = ~s~回去找~b~富兰克林~s~。
+	FH1_HEADBKL = ~s~回去找~b~莱斯特~s~。
+	FH1_HELI = 进入~b~直升机~s~。
+	FH1_HELP = Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the security trucks.
+	FH1_HOLE = 寻找施工工地的入口。~s~
+	FH1_HOVERN = 在施工工地入口附近盘旋。~s~
+	FH1_MIKERT = 返回银行。
+	FH1_REC = REC
+	FH1_SEARCH = 前往下一个搜索~y~地点~s~。
+	FH1_SWITCH = 切换到崔佛。
+	FH1_SWITCHM = 切换到麦克。
+	FH1_TIME = 时间
+	FH1_TRUCK = 不要让押运车离开视线。~s~
+}

@@ -1,0 +1,35 @@
+﻿Version 2 30
+{
+	BJ_BLIP_CHK = 检查点
+	BJ_BLIP_TGT = 目标
+	BJ_CONTINUE = 继续
+	BJ_FAIL = 失败
+	BJ_FAILTRY = 是否重新再试一次？
+	BJ_FAIL_01 = 着陆偏离过远。
+	BJ_FAIL_02 = 已放弃跳伞。
+	BJ_FAIL_F = ~s~富兰克林已死亡。~s~
+	BJ_FAIL_M = ~s~麦克已死亡。~s~
+	BJ_FAIL_T = ~s~崔佛已死亡。~s~
+	BJ_FALLHLP = 使用µ~INPUTGROUP_MOVE~µ控制自由落体的方向。~n~按µ~INPUT_PARACHUTE_DEPLOY~µ打开降落伞。~n~按µ~INPUT_JUMP~µ重试跳跃。
+	BJ_MG_BOAT = 伞降到~y~船~s~上。
+	BJ_MG_MTOBJ = 伞降通过~y~检查点~s~。
+	BJ_MG_STOBJ = 伞降到~y~目标~s~上。
+	BJ_MG_TRAIN = 伞降到~y~火车~s~上。
+	BJ_MISSED = ~s~已错过检查点。
+	BJ_OBJ_JB = 跳下屋顶，伞降到~y~目标~s~上。
+	BJ_OBJ_JCL = 跳下悬崖，利用伞降通过所有~y~检查点~s~。
+	BJ_OBJ_JCR = 跳下吊车，伞降到~y~卡车~s~上。
+	BJ_OBJ_JDB = 骑车冲下屋顶，伞降到~y~目标~s~上。
+	BJ_PARAHLP = 使用µ~INPUT_PARACHUTE_TURN_LR~µ改变方向。~n~按住µ~INPUT_PARACHUTE_BRAKE_LEFT~µ或µ~INPUT_PARACHUTE_BRAKE_RIGHT~µ进行急转。~n~按住µ~INPUT_PARACHUTE_BRAKE_LEFT~µ+µ~INPUT_PARACHUTE_BRAKE_RIGHT~µ精确着陆。~n~按下或按住µ~INPUT_VEH_CIN_CAM~µ开启电影特效镜头。~n~按µ~INPUT_JUMP~µ重试跳跃。
+	BJ_PARAHLP_KM = 使用µ~INPUT_PARACHUTE_TURN_LR~µ改变方向。~n~按住µ~INPUT_PARACHUTE_BRAKE_LEFT~µ或µ~INPUT_PARACHUTE_BRAKE_RIGHT~µ进行急转。~n~按住µ~INPUT_PARACHUTE_PRECISION_LANDING~µ精确着陆。~n~按或按住µ~INPUT_VEH_CIN_CAM~µ开启电影特效镜头。~n~按µ~INPUT_JUMP~µ重试跳跃。
+	BJ_RETRY = 重试
+	BJ_SC_ACC_RWD = 着陆奖励
+	BJ_SC_ALLG_RWD = 所有检查点奖励
+	BJ_SC_GATES = 检查点命中数
+	BJ_SC_GATE_RWD = 检查点奖励
+	BJ_SC_LAND_ACC = 着陆精准度
+	BJ_SC_PASS = 通过
+	BJ_SC_TOT_RWD = 总计
+	BJ_VEHHELP = 按µ~INPUT_VEH_EXIT~µ丢弃载具。
+	BJ_VLOOKHLP = 使用µ~INPUTGROUP_LOOK~µ环顾四周。~n~按µ~INPUT_JUMP~µ起跳。
+}

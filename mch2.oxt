@@ -1,0 +1,34 @@
+﻿Version 2 30
+{
+	0x02445E3C = ~s~按µ~PAD_B~µ把他丢下去。~s~
+	0x7E56461C = ~s~按住µ~INPUT_AIM~µ瞄准。按µ~INPUT_ATTACK~µ开火。~s~
+	0xA8D815CD = ~s~Rapidly tap ~INPUT_SPRINT~ to stand faster.~s~
+	0xC3C57C64 = ~s~取得麦克遭绑架时被夺走的武器。~s~
+	0xE450732C = ~s~已收到µTrackifyµ应用。~s~
+	MCH2_ABATTF = ~s~想办法进入屠宰场。~s~
+	MCH2_BLIPVEH = 载具
+	MCH2_ESCABA = ~y~逃出~s~屠宰场~s~。
+	MCH2_FAMMO = ~s~弹药用尽。~s~
+	MCH2_FCAR = ~s~汽车被摧毁。~s~
+	MCH2_FFDED = ~s~富兰克林死了。~s~
+	MCH2_FINDWP = ~s~找一把~g~武器~s~。
+	MCH2_FMDED = ~s~麦克死了。~s~
+	MCH2_FSWITCH = ~s~切换到富兰克林去前方侦查。~s~
+	MCH2_GETCLM = ~s~靠近~b~麦克~s~，扔一把武器给他。~s~
+	MCH2_GMCSH = ~s~前往~y~麦克的家~s~。
+	MCH2_HSWTCH = ~s~可以在麦克和富兰克林之间进行切换了。~s~
+	MCH2_INSIDE = ~s~进入~y~麦克的家~s~。
+	MCH2_INT3HLP1 = ~s~切换到麦克查看他的位置。~s~
+	MCH2_INT3HLP2 = ~s~可从手机应用菜单的右下角启动µTrackify。~s~
+	MCH2_INT3HLP3 = ~s~麦克的位置以红色标记点显示在µTrackifyµ应用中。~s~
+	MCH2_INTRO1 = ~s~麦克被绑架了。~s~
+	MCH2_INTRO2 = ~s~切换到富兰克林。~s~
+	MCH2_INTRO3 = ~s~找到麦克的位置。~s~
+	MCH2_PROTM = ~s~保护麦克免受~r~绑匪~s~的伤害。
+	MCH2_RELMCH = ~s~射击~b~麦克~s~脚上的绳索放他下来。~s~
+	MCH2_RELMCH2 = ~s~Press ~INPUT_CONTEXT~ to free Michael from the hook.~s~
+	MCH2_RESCUE = ~s~解救~b~麦克~s~。
+	MCH2_SWITCHCAM = ~s~在屠宰场外面时利用切换功能想办法抵达麦克所在的位置。~s~
+	MCH2_THRWP = ~s~按µ~INPUT_CONTEXT~µ扔一把枪给麦克。~s~
+	MCH2_TIMER = ~s~时间~s~
+}

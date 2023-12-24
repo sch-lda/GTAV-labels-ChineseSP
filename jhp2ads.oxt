@@ -1,0 +1,29 @@
+﻿Version 2 30
+{
+	JS_ATT_MA = JHP2A_AMAA
+	JS_ATT_MIF = 100
+	JS_ATT_MLF = 1100000
+	JS_ATT_MSL = 031
+	JS_ATT_M_01 = ~z~我叫你停车！
+	JS_ATT_M_02 = ~z~停车！
+	JS_ATT_M_03 = ~z~停在路边！
+	JS_ATT_M_04 = ~z~给我在那儿停下！
+	JS_ATT_M_05 = ~z~你把我惹恼了！
+	JS_ATT_M_06 = ~z~别再继续开了！
+	JS_COMB_MA = JHP2A_AOAA
+	JS_COMB_MIF = 100
+	JS_COMB_MLF = 1100000
+	JS_COMB_MSL = 031
+	JS_COMB_M_01 = ~z~我只是想要瓦斯！
+	JS_COMB_M_02 = ~z~别这样，我只是个业余麻醉师，好吧？
+	JS_COMB_M_03 = ~z~举手投降！
+	JS_COMB_M_04 = ~z~快走开，你这个白痴！
+	JS_COMB_M_05 = ~z~不过是催眠瓦斯！快走开！
+	JS_COMB_M_06 = ~z~这瓦斯我要定了，要死要活你自己选吧！
+	JS_INIT_MA = JHP2A_AQAA
+	JS_INIT_MIF = 100
+	JS_INIT_MLF = 1100000
+	JS_INIT_MSL = 031
+	JS_INIT_M_01 = ~z~停下那辆车！
+	JS_INIT_M_02 = ~z~靠边停下，就现在！
+}

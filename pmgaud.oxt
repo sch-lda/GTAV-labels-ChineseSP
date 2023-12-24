@@ -1,0 +1,27 @@
+﻿Version 2 30
+{
+	START_FA = PMGAN_ABAA
+	START_FIF = 100
+	START_FLF = 1100000
+	START_FSL = 131
+	START_F_01 = ~z~嘿，那是我的酒吧，你们这些杂种！
+	START_F_02 = ~z~你们他妈的在对我的酒吧做什么？
+	START_F_03 = ~z~嘿，你们这些小丑选错了酒吧！
+	START_F_04 = ~z~嘿，这间酒吧不允许娘娘腔进来！
+	START_MA = PMGAN_AAAA
+	START_MIF = 100
+	START_MLF = 1100000
+	START_MSL = 031
+	START_M_01 = ~z~快他妈滚出我的酒吧。
+	START_M_02 = ~z~你以为你能把我的酒吧怎么样？
+	START_M_03 = ~z~喂！酒吧关门了，混蛋！
+	START_M_04 = ~z~喂！我们已经最后一次警告过了，狗娘养的！
+	START_TA = PMGAN_ACAA
+	START_TIF = 100
+	START_TLF = 1100000
+	START_TSL = 231
+	START_T_01 = ~z~你们他妈的在对我的酒吧做什么！
+	START_T_02 = ~z~离这间酒吧远点，你们这些家伙！
+	START_T_03 = ~z~你们全部被禁止进入了！永远！
+	START_T_04 = ~z~这下你们完了，伙计！新的管理层是很疯狂的！
+}

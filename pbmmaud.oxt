@@ -1,0 +1,15 @@
+﻿Version 2 30
+{
+	PBMM_ABUSEA = PBMM_AAAA
+	PBMM_ABUSEIF = 100
+	PBMM_ABUSELF = 1000000
+	PBMM_ABUSESL = 390
+	PBMM_ABUSE_01 = ~z~嘿，去你妈的。
+	PBMM_ABUSE_02 = ~z~我他妈就是个小丑。现在给我滚开。
+	PBMM_ABUSE_03 = ~z~嘿——我平常不说话的，现在给我滚开。
+	PBMM_ABUSE_04 = ~z~真他妈好笑。
+	PBMM_ABUSE_05 = ~z~真有趣，你把那个小丑给打一顿。你这个人渣。
+	PBMM_ABUSE_06 = ~z~哥们，吃屎去吧。
+	PBMM_ABUSE_07 = ~z~你就是个彻头彻脑的自大狂。
+	PBMM_ABUSE_08 = ~z~别他妈推我了。
+}

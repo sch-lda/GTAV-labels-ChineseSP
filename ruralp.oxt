@@ -1,0 +1,14 @@
+﻿Version 2 30
+{
+	RHP_BK = ~s~回到那辆载有~b~装备~s~的载具中。
+	RHP_EXIT = ~s~离开卡车。
+	RHP_FABN = ~w~装备被遗弃。~s~
+	RHP_FDES = ~w~运输车被摧毁了。~s~
+	RHP_FEND = ~w~车队已经到达基地。~s~
+	RHP_GOODS = ~s~拦截~b~军用装备~s~。
+	RHP_HELP = ~s~不能摧毁装备。
+	RHP_KILL = ~s~干掉剩下的~r~守卫~s~。
+	RHP_LWARN = ~s~不要丢下~b~装备~s~。
+	RHP_RTN = ~s~前往~y~制毒工场~s~。
+	RHP_TRKSTCK = ~s~运输车被困住了。
+}

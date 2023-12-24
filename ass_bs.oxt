@@ -1,0 +1,40 @@
+﻿Version 2 30
+{
+	ASS_BS_ABAND = ~s~已放弃任务。~s~
+	ASS_BS_AREA = ~s~离开该区域。~s~
+	ASS_BS_BASE = 基础奖励
+	ASS_BS_BDESC = 肇事逃逸奖励
+	ASS_BS_BLIP = 巴士
+	ASS_BS_BOARD = ~s~在巴士站附近停车会吸引乘客上车。~s~
+	ASS_BS_CASH = 赚取金额
+	ASS_BS_COMP = 完成
+	ASS_BS_COMPB = 完成：铜牌
+	ASS_BS_COMPG = 完成：金牌
+	ASS_BS_COMPN = 完成：无奖牌
+	ASS_BS_COMPS = 完成：银牌
+	ASS_BS_CONT = 继续
+	ASS_BS_COPS = ~s~甩掉警察。~s~
+	ASS_BS_COVER = ~s~富兰克林已经暴露身份。~s~
+	ASS_BS_DIED = ~s~富兰克林已死亡。~s~
+	ASS_BS_ENTER = ~s~获得~b~巴士~s~。
+	ASS_BS_EXIT = ~s~离开巴士。~s~
+	ASS_BS_FAILWARN = ~s~返回该区域。
+	ASS_BS_FIND = ~s~开车经过~y~各个站点~s~，直至找到目标。~s~
+	ASS_BS_INFO = ~s~Steal the bus and use it as cover to search for the target at nearby stops. Avoid causing harm to innocents to maintain your cover.~s~
+	ASS_BS_KILL = ~s~暗杀~r~目标~s~。
+	ASS_BS_LEFTBUS = ~s~巴士被遗弃。~s~
+	ASS_BS_LOOK = ~s~Head to the ~y~Dashound Bus Center.~s~
+	ASS_BS_LOST = ~s~目标已经逃离。~s~
+	ASS_BS_NAME = 巴士暗杀行动
+	ASS_BS_PASSED = 任务成功
+	ASS_BS_RETURN = ~s~回到~b~巴士~s~。
+	ASS_BS_STOP0 = 亚历山德罗酒店
+	ASS_BS_STOP1 = 密申罗
+	ASS_BS_STOP2 = 圣安地列斯大道
+	ASS_BS_STOP3 = 奥林匹克高速公路。
+	ASS_BS_TIMER = 所花费时间
+	ASS_BS_VEHDEST = ~s~巴士被摧毁。~s~
+	ASS_BS_WARNING = ~s~The mission will fail if the bus is abandoned~s~.
+	ASS_HELP_01 = ~s~除非巴士停靠时与路边平行，否则乘客不会上车。~s~
+	ASS_HELP_02 = ~s~按µ~INPUT_VEH_CIN_CAM~µ查看巴士内部。~s~
+}

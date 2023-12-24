@@ -1,0 +1,28 @@
+﻿Version 2 30
+{
+	BSD_GETINCHOP = ~s~进入~b~吊挂直升机~s~。
+	BSPD_ABANDON = 没偷到火车。
+	BSPD_CREWDEAD = 一名队员被杀。
+	BSPD_SW_M = 切换到麦克。
+	BSPD_SW_T = 切换到崔佛。
+	BSPD_TRUCKDEAD = 卡车被摧毁。
+	BSPD_WAIT = 等待火车停入岔道。
+	FAILGUARD = ~s~惊动了警方。
+	FAILHELI = ~s~直升机被摧毁了。
+	FAILTRAIN = ~s~火车被摧毁了。
+	FLIPSWITCH = ~s~按µ~INPUT_CONTEXT~µ改变轨道路线。
+	GETCARRIAGE = ~s~夹起~b~平板拖车~s~。
+	GETENGINE = ~s~夹起~b~火车头~s~。
+	GOTOBOX = ~s~前往~y~信号控制器~s~。
+	KILLGUARDS = ~s~撂倒~r~铁路工人~s~。
+	MAGNETOFF = ~s~按µ~INPUT_VEH_GRAPPLING_HOOK~µ关闭电磁铁。
+	MAGNETON = ~s~按µ~INPUT_VEH_GRAPPLING_HOOK~µ激活电磁铁。
+	NOFLIP = ~s~火车出现时无法激活旁轨。
+	TAKEENGINE = ~s~把火车头带去~y~崔佛的小机场~s~。
+	TAKEENGINE2 = ~s~把火车头放到~b~拖车~s~上。
+	TAKEFLATBED = ~s~把平板拖车带去~y~崔佛的小机场~s~。
+	TAKEFLATBED2 = ~s~把平板拖车放到~b~拖车~s~上。
+	WAITENGINE = ~s~等待麦克分开~b~货运摩托车~s~。
+	WAITENGINEF = ~s~等待富兰克林分开~b~货运摩托车~s~。
+	WAITENGINET = ~s~等待崔佛分开~b~货运摩托车~s~。
+}

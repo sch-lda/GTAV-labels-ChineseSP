@@ -1,0 +1,46 @@
+﻿Version 2 30
+{
+	0xF5EBEC69 = ~s~Park the bulldozer in ~y~position.~s~
+	FRAN2_DRVE = ~s~等待其他人。
+	FRAN2_DRVF = ~s~回去找~b~富兰克林~s~。
+	FRAN2_DRVL = ~s~回去找~b~拉玛~s~。
+	FRAN2_DRVM = ~s~Return to ~b~Michael.
+	FRAN2_DRVT = ~s~Return to ~b~Trevor.
+	FRAN2_F01 = ~s~拉玛死了。
+	FRAN2_F02 = ~s~Tanisha died.
+	FRAN2_F03 = ~s~推土机被摧毁。
+	FRAN2_FCOPS = ~s~警察被引到了锯木厂。
+	FRAN2_FEARLY = ~s~巴勒帮已有所警觉。
+	FRAN2_FIND = ~s~找到拉玛。~s~
+	FRAN2_FOLLOWBD = ~s~Follow the ~b~bulldozer.~s~
+	FRAN2_GETCAR = ~s~送拉玛返回他的~y~家~s~。
+	FRAN2_GETINBD = ~s~Get in the ~b~bulldozer.~s~
+	FRAN2_GETLAMAR = ~s~去找~b~拉玛~s~。
+	FRAN2_GETP = ~s~进入突击~y~位置~s~。
+	FRAN2_GOMEET = ~s~去~y~见~s~崔佛和麦克。~s~
+	FRAN2_GOSAW = ~s~前往~y~锯木厂~s~。
+	FRAN2_KILLG = ~s~干掉剩下的~r~守卫~s~。
+	FRAN2_LABAN = ~s~拉玛被抛下。
+	FRAN2_LEADL = ~s~带拉玛前往~y~锯木厂出口~s~。
+	FRAN2_MEET = ~s~Get all the crew to the ~y~meet point.~s~
+	FRAN2_PHNHLP = ~s~Call Trevor and Michael for extra muscle.
+	FRAN2_POSHELP = ~s~前往任意一处标记位置以选择您的突击路线。~s~
+	FRAN2_PROT = ~s~保护~b~富兰克林~s~、~b~崔佛~s~和~b~拉玛~s~。
+	FRAN2_PROTFT = ~s~保护~b~富兰克林~s~和~b~崔佛~s~。
+	FRAN2_PUSHCARS = ~s~Destroy the ~r~barricade.~s~
+	FRAN2_RETSAW = ~s~返回锯木厂。
+	FRAN2_SIGHELP = ~s~按µ~INPUT_CONTEXT~µ发出信号。
+	FRAN2_SIGHELP2 = ~s~按µ~INPUT_CONTEXT~µ确认崔佛的位置。
+	FRAN2_SNIPEHELP = ~s~使用µ~INPUTGROUP_LOOK~µ移动准星。~n~使用µ~INPUTGROUP_SNIPER_ZOOM_SECONDARY~µ在按住µ~INPUT_AIM~µ的情况下调整缩放。~n~按µ~INPUT_ATTACK~µ进行射击。
+	FRAN2_SNIPEHELP_KM = ~s~使用µ~INPUTGROUP_LOOK~µ移动准星。~n~使用µ~INPUTGROUP_SNIPER_ZOOM_SECONDARY~µ调整缩放。~n~按µ~INPUT_ATTACK~µ进行射击。
+	FRAN2_SPECHELP = ~s~同时按µ~INPUT_SPECIAL_ABILITY~µ和µ~INPUT_SPECIAL_ABILITY_SECONDARY~µ在使用狙击步枪时激活麦克的特殊能力。
+	FRAN2_SPECHELP_KM = ~s~按µ~INPUT_SPECIAL_ABILITY_PC~µ在狙击时激活麦克的特殊能力。
+	FRAN2_SWFRANK = ~s~切换到富兰克林。~s~
+	FRAN2_SWITCH = ~s~切换到富兰克林。
+	FRAN2_SWITCH2 = ~s~切换到~b~富兰克林~s~或~b~崔佛~s~。
+	FRAN2_TRAIN = ~s~Get to ~b~Trevor.~s~
+	FRAN2_WAITF = ~s~等待崔佛和麦克发出信号示意自己就位。
+	FRAN2_WAITM = ~s~等待崔佛和富兰克林发出信号示意自己就位。
+	FRAN2_WAITT = ~s~等待富兰克林和麦克发出信号示意自己就位
+	FRAN2_WAITTREV = ~s~Wait for Trevor.~s~
+}

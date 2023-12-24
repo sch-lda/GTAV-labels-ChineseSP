@@ -1,0 +1,8 @@
+﻿Version 2 30
+{
+	B3BARRYDEAD = 巴里死了。
+	B3BARRYHURT = 巴里受伤了。
+	B3BARRYSCARE = 巴里受到了惊吓。
+	LEAVE_AREA = 离开该区域。
+	LOSE_WANTED_LVL = 甩掉警察。
+}

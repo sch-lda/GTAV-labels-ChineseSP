@@ -1,0 +1,31 @@
+﻿Version 2 30
+{
+	STR1_GIRL1A = STR1_ABAA
+	STR1_GIRL1IF = 100
+	STR1_GIRL1LF = 1100000
+	STR1_GIRL1SL = 390
+	STR1_GIRL1_01 = ~z~是的，宝贝！
+	STR1_GIRL1_02 = ~z~拜托！
+	STR1_GIRL1_03 = ~z~来比一比啊！
+	STR1_GIRL1_04 = ~z~看我的！
+	STR1_GIRL1_05 = ~z~来啊！
+	STR1_GIRL1_06 = ~z~来吧，宝贝儿！
+	STR1_GIRL1_07 = ~z~我们去爽一下！
+	STR1_GIRL1_08 = ~z~我们走喽！
+	STR1_GIRL1_09 = ~z~来啊，去浪了！
+	STR1_GIRL1_10 = ~z~看你有什么本事！
+	STR1_GIRL2A = STR1_ACAA
+	STR1_GIRL2IF = 100
+	STR1_GIRL2LF = 1100000
+	STR1_GIRL2SL = 490
+	STR1_GIRL2_01 = ~z~我们走吧！
+	STR1_GIRL2_02 = ~z~让我看看你的本事！
+	STR1_GIRL2_03 = ~z~走着瞧吧！
+	STR1_GIRL2_04 = ~z~来了！
+	STR1_GIRL2_05 = ~z~这才对嘛！
+	STR1_GIRL2_06 = ~z~出发了！
+	STR1_GIRL2_07 = ~z~来啊，嗨起来！
+	STR1_GIRL2_08 = ~z~燥起来！
+	STR1_GIRL2_09 = ~z~这是真的！
+	STR1_GIRL2_10 = ~z~发车！
+}

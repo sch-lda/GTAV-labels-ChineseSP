@@ -1,0 +1,21 @@
+﻿Version 2 30
+{
+	BBS_05 = 返回~b~弃保逃犯~s~处。
+	BBS_APHEND = 逮捕~r~弃保逃犯~s~。
+	BBS_APHEND2 = 逮捕~b~弃保逃犯~s~。
+	BBS_APPSUS = 接近~r~弃保逃犯~s~。
+	BBS_APPSUS2 = 接近~b~弃保逃犯~s~。
+	BBS_BJ1 = ~w~拉尔夫·奥斯特罗夫斯基~s~
+	BBS_BJ2 = ~w~拉里·图珀~s~
+	BBS_BJ3 = ~w~格伦·斯科维尔~s~
+	BBS_BJ4 = ~w~柯蒂斯·韦弗~s~
+	BBS_COPS = 甩掉警察。~s~
+	BBS_DROP = 将弃保逃犯带到~y~茉德处~s~。
+	BBS_F1 = ~w~弃保逃犯已逃脱。~s~
+	BBS_F2 = ~w~茉德受到了惊吓。~s~
+	BBS_F3 = ~w~茉德已死亡。~s~
+	BBS_MP = 通过~s~
+	BBS_MPD = ~w~弃保逃犯已送达：~a~
+	BBS_MPK = ~w~已击杀弃保逃犯：~a~
+	BBS_VH1 = ~w~此载具不适合运送弃保逃犯。~s~
+}

@@ -1,0 +1,6 @@
+﻿Version 2 30
+{
+	PMD_FAIL = 资产保护失败。
+	PMD_OBJ = 保护您的资产不受~r~敌人~s~侵害。
+	PMD_PASS = 资产保护成功。
+}

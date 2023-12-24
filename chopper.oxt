@@ -1,0 +1,14 @@
+﻿Version 2 30
+{
+	CRIMES_1 = 卖淫
+	CRIMES_2 = 拒捕
+	CRIMES_3 = 公众场合裸露下体
+	CRIMES_4 = 逃税
+	CRIMES_5 = 酒后驾驶
+	CRIMES_6 = 踩点
+	CRIMES_7 = 扰乱治安
+	CRIMES_8 = 超速违章
+	HUD_LST = 目标不见了
+	HUD_RNG = 超出范围
+	SCAN = 正在扫描......
+}

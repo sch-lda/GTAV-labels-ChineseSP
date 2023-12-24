@@ -1,0 +1,8 @@
+﻿Version 2 30
+{
+	SHRINK_ACCEPT = 接受建议
+	SHRINK_BROKE = 你没有足够的钱找费蓝德医生做心理辅导。
+	SHRINK_KILL_B = 干掉~b~费蓝德医生~s~或者放他一马。
+	SHRINK_KILL_R = 干掉~r~费蓝德医生~s~或者放他一马。
+	SHRINK_REJECT = 拒绝建议
+}

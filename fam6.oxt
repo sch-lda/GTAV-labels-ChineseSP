@@ -1,0 +1,25 @@
+﻿Version 2 30
+{
+	FAM6_DHOUSE = 返回~y~麦克的家~s~。
+	FAM6_FAILACD = ~w~德温的汽车被摧毁。
+	FAM6_FAILBMA = ~w~阿曼达被吓跑。
+	FAM6_FAILDB = ~w~任务失败。
+	FAM6_FAILFD = ~w~法比恩死了。
+	FAM6_FAILLAZ = ~w~雷兹罗死了。
+	FAM6_FAM = ~s~回到您的~b~家庭~s~。
+	FAM6_FBMSMASH = ~w~您摧毁了冰的咖啡。
+	FAM6_FFAMILY = ~w~您的家人被抛弃了。~s~
+	FAM6_PIERC0 = ~s~~INPUT_SCRIPT_RLEFT~µ刺穿雷兹罗的眉毛。~n~~INPUT_SCRIPT_RRIGHT~µ刺穿雷兹罗的鼻子。~n~~INPUT_SCRIPT_RDOWN~µ刺穿雷兹罗的耳朵。
+	FAM6_PIERC1 = ~s~~INPUT_SCRIPT_RLEFT~µ刺穿雷兹罗的眉毛。~n~~INPUT_SCRIPT_RRIGHT~µ刺穿雷兹罗的鼻子。
+	FAM6_PIERC2 = ~s~~INPUT_SCRIPT_RLEFT~µ刺穿雷兹罗的眉毛。~n~~INPUT_SCRIPT_RDOWN~µ刺穿雷兹罗的耳朵。
+	FAM6_PIERC3 = ~s~~INPUT_SCRIPT_RRIGHT~µ刺穿雷兹罗的鼻子。~n~~INPUT_SCRIPT_RDOWN~µ刺穿雷兹罗的耳朵。
+	FAM6_PIERC4 = ~s~~INPUT_SCRIPT_RLEFT~µ刺穿雷兹罗的眉毛。
+	FAM6_PIERC5 = ~s~~INPUT_SCRIPT_RRIGHT~µ刺穿雷兹罗的鼻子。
+	FAM6_PIERC6 = ~s~~INPUT_SCRIPT_RDOWN~µ刺穿雷兹罗的耳朵。
+	FAM6_SCIS = ~s~~INPUT_SCRIPT_RDOWN~µ剪掉雷兹罗的马尾辫。
+	FAM6_SHRINK = ~s~前往~y~费蓝德医生的办公室~s~。
+	FAM6_TAT = ~s~按住µ~INPUTGROUP_SCRIPT_RSTICK_ALL~µ按照显示的方向来画出纹身。
+	FAM6_TATCH = ~s~~INPUT_SCRIPT_RLEFT~µ给雷兹罗的胸部纹身。~n~~INPUT_SCRIPT_RRIGHT~µ给雷兹罗的背部纹身。
+	FAM6_TATTOO = ~s~前往~y~纹身店~s~。
+	FAM6_YOGA = ~s~前往~y~冰的咖啡。~s~
+}

@@ -1,0 +1,16 @@
+﻿Version 2 30
+{
+	PRE_BLIP = 连身工作服
+	PRE_BUYF = 给富兰克林买一件连身工作服。
+	PRE_BUYM = 给麦克买一件连身工作服。
+	PRE_BUYT = 给崔佛买一件连身工作服。
+	PRE_CASH = 由于资金不足，所以无法购买所需的连身工作服。
+	PRE_COPS = 警方已察觉。
+	PRE_ENTER = 进入军火专卖店。
+	PRE_FKICKOFF = 无法购买所需的连身工作服。
+	PRE_FLEFT = 已离开武装国度。
+	PRE_GCLOTH = 购买µ3µ件~g~连身工作服。
+	PRE_LEAVE = 离开武装国度。
+	PRE_RETSHOP = 返回~y~商店~s~。
+	PRE_SHOP = 商店
+}

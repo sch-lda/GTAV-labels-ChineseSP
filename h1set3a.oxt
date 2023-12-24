@@ -1,0 +1,18 @@
+﻿Version 2 30
+{
+	S3A_ARCLABEL = 建筑师
+	S3A_BACKUP = ~s~富兰克林离~b~建筑师~s~太近。
+	S3A_ESCAPE = ~s~离开建筑工地。
+	S3A_FOLLOW = ~s~尾随~b~建筑师~s~并拿到蓝图。
+	S3A_GETOUT = 离开汽车。
+	S3A_GOHOME = ~s~前往~y~服装厂~s~。
+	S3A_KILL = ~s~让~r~建筑师~s~交出公文包。
+	S3A_LFTCASE = 蓝图丢失。~s~
+	S3A_LFTHLP = ~s~按µ~INPUT_CONTEXT~µs使用电梯。~s~
+	S3A_LOSECOPS = ~s~甩掉警察。~s~
+	S3A_LOST = 您跟丢了建筑师。~s~
+	S3A_MUGHLP = 瞄准目标以对其进行威胁。
+	S3A_PARK = 将车停到~y~停车场~s~，避免引起怀疑。
+	S3A_PICKUP = ~s~拾取~g~蓝图~s~。
+	S3A_SCARED = 建筑师受到了惊吓。~s~
+}

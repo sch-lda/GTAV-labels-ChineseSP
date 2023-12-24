@@ -1,0 +1,35 @@
+﻿Version 2 30
+{
+	0x62DC6EEF = ~s~进入~y~屋子~s~。
+	0xC278A014 = ~s~按µ~INPUT_SCRIPT_PAD_RIGHT~µ切换礼车镜头。
+	MIC4_COPS = 您把警察引到了麦克的家。
+	MIC4_DISRUPT = 电影的首映礼搞砸了。
+	MIC4_DRIVERDEAD = 礼车司机死了。
+	MIC4_LIMOCAM = ~s~按µ~INPUT_VEH_CIN_CAM~µ切换礼车镜头。
+	MIC4_LIMODEAD = 礼车被摧毁了。
+	MIC4_SA = 尝试利用麦克的特殊能力在战斗中获取优势。在特殊能力条有些许能量时，同时按µ~INPUT_SPECIAL_ABILITY~µ和µ~INPUT_SPECIAL_ABILITY_SECONDARY~。~s~
+	MIC4_SA_KM = 尝试利用麦克的特殊能力在战斗中获取优势。在特殊能力条蓄有能量时，按µ~INPUT_SPECIAL_ABILITY_PC~。~s~
+	SOL5_ADIED = ~s~阿曼达死了。
+	SOL5_DEVTXT = 你有µ2µ分钟的时间来牺牲自己拯救你的家人，白痴！
+	SOL5_FAILTUX = 膨风精品关门了。
+	SOL5_GET2HSE = ~s~去救您的~b~家人~s~。
+	SOL5_INLIMO = 进入~b~礼车~s~。
+	SOL5_JDIED = ~s~吉米死了。
+	SOL5_KILLBAD = ~s~干掉家里的~r~梅利威瑟~s~。
+	SOL5_KILLBAD2 = ~s~干掉外面的~r~梅利威瑟~s~。
+	SOL5_LAZ1 = Lazlow Jones
+	SOL5_LAZ2 = Red Carpet Laz-lowdown
+	SOL5_LEAVE = ~s~麦克的家人被抛弃了。
+	SOL5_MISSED = 您错过了首映礼。
+	SOL5_MORE = ~s~更多~r~梅利威瑟家族的人~s~来了，就在房子前面。
+	SOL5_MTJIM = 和~b~吉米~s~碰头。
+	SOL5_NOLIMO = 您离开了礼车。
+	SOL5_REDCARPET = 前往~y~红毯~s~。
+	SOL5_RENDEZV = ~s~去找您的~b~家人~s~。
+	SOL5_SAVEAM = ~s~干掉~r~绑匪~s~。
+	SOL5_SAVETRC = ~s~找到~b~特蕾西~s~。
+	SOL5_TDIED = ~s~特蕾西死了。
+	SOL5_TIMEUP = ~s~麦克的家人没有及时获救。
+	SOL5_TUX1 = 在~y~膨风精品~s~中换上晚礼服，参加《崩溃危机》首映礼。
+	SOL5_TUX2 = 在~y~膨风精品~s~购买晚礼服，参加《崩溃危机》首映礼。
+}

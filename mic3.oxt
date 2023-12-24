@@ -1,0 +1,24 @@
+﻿Version 2 30
+{
+	M3_01 = 前往~y~出口~s~。
+	M3_02 = 下楼到~y~花园~s~去。
+	M3_04 = 逃往~y~摩宁坞~s~。
+	M3_04A = 继续前往~y~摩宁坞~s~。
+	M3_05 = 甩掉~r~敌人的直升机~s~。
+	M3_DF = 任务失败
+	M3_DVABDN = 戴夫被抛下。
+	M3_DVDEAD = 戴夫死了。
+	M3_DVWARN = 回到~b~戴夫~s~那里。
+	M3_FMDEAD = 麦克死了。
+	M3_FTDEAD = 崔佛死了。
+	M3_OBJCYKIL = 保护~b~戴夫~s~。
+	M3_OBJFRSTA = 经~y~阳台~s~逃离科兹中心。
+	M3_OBJHELI = 射死~r~飞行员~s~。
+	M3_OBJHELPD = 为~b~戴夫~s~清空楼梯。
+	M3_OBJPLOT = 前往~y~停车场~s~。
+	M3_OBJROOF = 前往~y~直升机停机坪~s~。
+	M3_OBJSVDV = 干掉µ~r~FIBµ探员~s~。
+	M3_SW_M = 切换到麦克。
+	M3_SW_T = 切换到崔佛。
+	M3_WLKDV = 去见~b~戴夫~s~。
+}

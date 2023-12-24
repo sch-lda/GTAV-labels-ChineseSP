@@ -1,0 +1,17 @@
+﻿Version 2 30
+{
+	AMSOL_HEREA = AMSOL_AAAA
+	AMSOL_HEREIF = 100
+	AMSOL_HERELF = 1100000
+	AMSOL_HERESL = 090
+	AMSOL_HERE_01 = ~z~我和理查兹先生有约。所罗门·理查兹。
+	AMSOL_HERE_02 = ~z~所罗门·理查兹在等我。
+	AMSOL_HERE_03 = ~z~我想见理查兹先生。我应该在他的日程计划表里。
+	AMSOL_WORKA = AMSOL_ABAA
+	AMSOL_WORKIF = 100
+	AMSOL_WORKLF = 1100000
+	AMSOL_WORKSL = 090
+	AMSOL_WORK_01 = ~z~喂，我在这里工作。
+	AMSOL_WORK_02 = ~z~你还记得我吧，我是麦克·迪圣塔。
+	AMSOL_WORK_03 = ~z~我是所罗门的手下，麦克·迪圣塔，我在这里工作。
+}

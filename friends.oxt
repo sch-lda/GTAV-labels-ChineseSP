@@ -1,0 +1,29 @@
+﻿Version 2 30
+{
+	FR_GETBACK = ~s~回去找~b~~a~~s~。
+	FR_GETBACK2 = ~s~回去找您的~b~好友~s~。
+	FR_H_ACTIV1 = 有许多活动可以同好友一起参加，例如µ~HUD_COLOUR_YELLOW~~BLIP_CINEMA~~s~、~HUD_COLOUR_YELLOW~~BLIP_TENNIS~~s~µ和µ~HUD_COLOUR_YELLOW~~BLIP_BAR~~s~
+	FR_H_ACTIV2 = 距离最近的活动总是能在雷达上看见。打开主地图查看所有可进行的活动。
+	FR_H_BUDF_A = 富兰克林即将到达，雷达上的µ~HUD_COLOUR_BLUE~~BLIP_FRANKLIN_FAMILY~~s~µ显示他所在的位置。
+	FR_H_BUDM_A = 麦克即将到达，雷达上的µ~HUD_COLOUR_BLUE~~BLIP_MICHAEL_FAMILY~~s~µ显示他所在的位置。
+	FR_H_BUDT_A = 崔佛即将到达，雷达上的µ~HUD_COLOUR_BLUE~~BLIP_TREVOR_FAMILY~~s~µ显示他所在的位置。
+	FR_H_BUD_SW = 叫来支援的好友进入范围之后就可以进行切换了。
+	FR_H_DROPOFF0 = 载~a~回去，或带他继续进行其他活动。
+	FR_H_DROPOFF1 = 载~a~回去，或带她继续进行其他活动。
+	FR_H_DROPOFF2 = 载好友回去，或带其继续进行其他活动。
+	FR_H_PKUP = 去µ~BLIP_FRIEND~µ与µ~a~µ见面
+	FR_H_PKUPF = 去µ~BLIP_FRIEND~µ与µ~a~µ见面
+	FR_H_WAIT = ~a~即将到达µ~BLIP_FRIEND~。去那里等他。
+	FR_H_WAITF = ~a~即将到达µ~BLIP_FRIEND~。去那里等她。
+	FR_X_ATAC_1F = ~a~遭到攻击。
+	FR_X_ATAC_1M = ~a~遭到攻击。
+	FR_X_CANCEL = 好友活动已被取消。
+	FR_X_FLEE_1F = ~a~受到了惊吓。
+	FR_X_FLEE_1M = ~a~受到了惊吓。
+	FR_X_FLEE_2 = 您的好友被吓跑了。
+	FR_X_INJ_2 = 您的好友受伤了。
+	FR_X_LATE = 您未能及时与~a~碰头。同他进行的好友活动已被取消。
+	FR_X_LOST_1F = ~a~被抛下。
+	FR_X_LOST_1M = ~a~被抛下。
+	FR_X_LOST_2 = 您抛下了自己的好友。
+}

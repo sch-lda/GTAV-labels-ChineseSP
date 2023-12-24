@@ -1,0 +1,30 @@
+﻿Version 2 30
+{
+	DKP1_ABFLD = ~s~回去见~b~弗洛伊德~s~。
+	DKP1_ABSUB = ~s~不要遗弃潜水艇。~s~
+	DKP1_ATTACH = ~s~重新连接~b~拖车~s~。
+	DKP1_BTN = ~s~按µ~INPUT_CONTEXT~µ松开潜水艇。
+	DKP1_CLIMB = ~s~爬上潜水艇并进入。
+	DKP1_EXIT = ~s~离开卡车。
+	DKP1_FABD = ~w~崔佛离开了任务区域。~s~
+	DKP1_FABF = ~w~弗洛伊德被抛下。~s~
+	DKP1_FABS = ~w~潜水艇被遗弃。~s~
+	DKP1_FDES1 = ~w~潜水艇被摧毁。~s~
+	DKP1_FDES2 = ~w~卡车被摧毁。~s~
+	DKP1_FFCAR = ~w~弗洛伊德拾取的物品被摧毁。~s~
+	DKP1_FFLOYD = ~w~弗洛伊德已死亡。~s~
+	DKP1_FLOST1 = ~w~潜水艇丢失。~s~
+	DKP1_FSTUCK1 = ~w~潜水艇被困。~s~
+	DKP1_FSTUCK2 = ~w~卡车被困。~s~
+	DKP1_HELP1 = ~s~开枪打断绳索或按~g~按钮~s~松开潜水艇。
+	DKP1_SUB = ~s~取回~b~潜水艇~s~。
+	DKP1_SUBBK = ~s~返回~b~潜水艇~s~。
+	DKP1_SUBINS = 按住µ~INPUT_VEH_SUB_DESCEND~µ下潜或按住µ~INPUT_VEH_SUB_ASCEND~µ上浮。
+	DKP1_SUBTURN = 按住µ~INPUT_VEH_SUB_TURN_HARD_LEFT~/~INPUT_VEH_SUB_TURN_HARD_RIGHT~µ转向。
+	DKP1_TK1 = ~s~前往~y~撤离点~s~。
+	DKP1_TK2 = ~s~将潜水艇停放到~y~仓库~s~。
+	DKP1_TRUCK = ~s~进入~b~卡车~s~。
+	DKP1_TRUCKBK = ~s~返回~b~卡车~s~。
+	SUBBTN_LABEL = 松开潜水艇
+	SUB_HELP = 在潜水艇中时，使用µ~INPUT_VEH_SUB_ASCEND~µ上升，使用µ~INPUT_VEH_SUB_DESCEND~µ下沉。
+}

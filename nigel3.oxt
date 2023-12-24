@@ -1,0 +1,27 @@
+﻿Version 2 30
+{
+	N3BAIL = 离开。
+	N3DRIVE = 前往~y~火车轨道~s~。
+	N3EXIT = 离开汽车。
+	N3FLEFT = 汽车被遗弃。
+	N3FMISST = 汽车未被摧毁。
+	N3FTRUNK = 走到后备箱放艾尔·迪·拿波利出来。
+	N3GETCAR = 乘上奈杰尔的~b~汽车~s~。
+	N3LEAVECAR = 回到~b~汽车~s~上。
+	N3LOSEWANT = 甩掉警察。
+	N3MRSTDEAD = 桑希尔女士死了。
+	N3MRSTHURT = 桑希尔女士受伤了。
+	N3NIGEDEAD = 奈杰尔死了。
+	N3NIGEHURT = 奈杰尔受伤了。
+	N3NORTH = 沿着~y~火车轨道~s~行驶。
+	N3NRCOP = 附近有警察时崔佛无法放艾尔出来。
+	N3RAM = 将汽车留在轨道上。
+	N3REL1 = 继续前往目的地杀掉艾尔·迪·拿波利，或下车放他出来。
+	N3RTCAR = 回到~b~汽车~s~上。
+	N3SCARED = 奈杰尔和桑希尔女士受到了惊吓。
+	N3STUCK = 汽车被困。
+	N3TRAINCAM = 按µ~INPUT_VEH_CIN_CAM~µ切换火车镜头。
+	N3TRUNK = 汽车周围有障碍物时崔佛无法放艾尔出来。
+	N3WONKY = 汽车位于不平的地面上时崔佛无法放艾尔出来。
+	N3WRECK = 汽车在解决艾尔之前就被摧毁了。
+}

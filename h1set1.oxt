@@ -1,0 +1,25 @@
+﻿Version 2 30
+{
+	S1_ABAND = 莱斯特被抛下。~s~
+	S1_BACKUP = 您离~b~清洁工~s~太近。
+	S1_BKINCAR = ~s~返回您的~b~汽车~s~。
+	S1_BKTOAPT = 回到~b~清洁工~s~所在位置。
+	S1_CHACAM = 按µ~INPUT_VEH_CIN_CAM~µ对准清洁工。
+	S1_FAILED = 清洁工逃脱。~s~
+	S1_FAILED_C = 清洁工无法回家。~s~
+	S1_FAILED_K = 清洁工已死亡。~s~
+	S1_FAILLV = 已离开指定范围。~s~
+	S1_FOCUS = ~s~按µ~INPUT_VEH_CIN_CAM~µ将视野集中在车牌上。
+	S1_FOLLOW = ~s~尾随~b~清洁工~s~。
+	S1_FOLLOW2 = ~s~尾随~b~清洁工~s~进入公寓。
+	S1_GETTOBANK = ~s~前往µ~y~FIBµ大楼~s~。
+	S1_GOTOSH = ~s~前往~y~服装厂~s~。
+	S1_JSPOOK = 清洁工受到了惊吓。~s~
+	S1_KILLJAN = ~s~给~r~清洁工~s~注射。
+	S1_LESFAIL = 莱斯特已死亡。~s~
+	S1_LOSECOPS = ~s~甩掉警察。~s~
+	S1_SECFAIL = 保安有所警觉。~s~
+	S1_UPSTAIRS = ~s~前往~y~办公室~s~。
+	S1_VEHSTUCK = ~s~汽车被困。~s~
+	S1_WAIT = ~s~等待清洁工的车。
+}

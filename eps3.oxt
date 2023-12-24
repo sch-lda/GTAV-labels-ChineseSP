@@ -1,0 +1,7 @@
+﻿Version 2 30
+{
+	EPS3_FAILHURT = 马尔尼受伤了。
+	EPS3_FAILKILL = 马尔尼死了。
+	EPS3_FAILSCARE = 马尔尼被吓到了。
+	EPS3_LEAVE = 离开该区域。
+}

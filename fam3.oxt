@@ -1,0 +1,23 @@
+﻿Version 2 30
+{
+	FAM3_CATTA = ~s~网球教练遭到攻击。
+	FAM3_CDEAD = ~s~网球教练死了。
+	FAM3_CSPOOK = ~s~网球教练受到惊吓。
+	FAM3_DCAN = 开到~y~峡谷~s~。
+	FAM3_DHOUSE = 返回~y~麦克的家~s~。
+	FAM3_FAIL = ~s~任务失败
+	FAM3_FTC = 跟随~r~网球教练~s~。
+	FAM3_GBIT = 回到~b~卡车~s~上。
+	FAM3_GIT = 乘上~b~卡车~s~。
+	FAM3_HCAM = 按µ~INPUT_VEH_CIN_CAM~µ将视线对准网球教练。~s~
+	FAM3_HPASS1 = 作为乘客时，可按住µ~INPUT_VEH_PASSENGER_AIM~µ进行瞄准，并按µ~INPUT_VEH_PASSENGER_ATTACK~µ向车外射击。~s~
+	FAM3_HPASS2 = 在载具中时，使用µ~INPUT_VEH_SELECT_NEXT_WEAPON~µ选择其他武器。~s~
+	FAM3_HPASS3 = 在载具中时，使用µ~INPUT_VEH_SELECT_NEXT_WEAPON~µ选择其他武器。~s~
+	FAM3_HPULL = 按住µ~INPUT_VEH_ACCELERATE~µ加速。~s~
+	FAM3_HSTAT1 = 武器射击准度、最大弹药容量、换弹速度和准星移动将随着射击属性的增长而强化。~s~
+	FAM3_HSTAT2 = 成功命中敌人时射击属性就会提高。进行靶场竞技或造成爆头可快速提高此项属性。~s~
+	FAM3_HSWITCH = 可以在麦克和富兰克林之间进行切换了。~s~
+	FAM3_LGOONS = 甩掉~r~玛德拉索的人~s~。
+	FAM3_TDEST = ~s~卡车被摧毁。
+	FAM3_TUND = ~s~卡车被困。
+}

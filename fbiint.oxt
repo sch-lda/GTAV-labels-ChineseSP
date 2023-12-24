@@ -1,0 +1,5 @@
+﻿Version 2 30
+{
+	INT_LEAVE = 离开该区域。
+	INT_THREAT = 麦克受到威胁。
+}

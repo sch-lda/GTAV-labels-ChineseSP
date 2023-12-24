@@ -1,0 +1,22 @@
+﻿Version 2 30
+{
+	CAR4_CDOOR = 进入。
+	CAR4_CGAR = ~s~警方知道了车库的位置。
+	CAR4_CLEFT = ~s~汽车被遗弃。
+	CAR4_CUND = ~s~汽车被困。
+	CAR4_DATTA = ~s~德温遭到攻击。
+	CAR4_DCAR = 将车开到~y~车库~s~。
+	CAR4_DDEAD = ~s~德温死了。
+	CAR4_EGIRL = 让女演员滚蛋。
+	CAR4_FAIL = ~s~任务失败
+	CAR4_GGAR = ~s~女演员知道了车库的位置。
+	CAR4_HALERT = 惊动了片场保安。~s~
+	CAR4_HCARE = 按µ~INPUT_SCRIPT_RLEFT~µ看看红色按钮有什么用。~s~
+	CAR4_HCARS = 按µ~INPUT_SCRIPT_LS~µ布设胎刺。
+	CAR4_HKO = 您可以将演员打昏，然后抢走他的衣服。~s~
+	CAR4_JBLOW = ~s~差事搞砸了。
+	CAR4_LCAR = 找到车。
+	CAR4_LSEC = 甩掉~r~保安~s~。
+	CAR4_SGAR = ~s~保安知道了车库的位置。
+	CAR4_TMSTA = 找到~r~演员~s~。
+}

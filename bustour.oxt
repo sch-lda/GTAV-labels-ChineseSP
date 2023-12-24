@@ -1,0 +1,6 @@
+﻿Version 2 30
+{
+	ENTER_BUS = 按µ~INPUT_ENTER~µ以乘客身份搭乘旅游巴士。旅游将花费µ$40。
+	NO_BUS_MONEY = 您的资金不足，无法继续巴士旅游。旅游将花费µ$40。
+	TOUR_HELP = 按µ~INPUT_ENTER~µ退出旅游。~n~按µ~INPUT_SCRIPT_RDOWN~µ跳至下一目的地。~n~按µ~INPUT_SCRIPT_RRIGHT~µ切换第一人称视角。
+}

@@ -1,0 +1,22 @@
+﻿Version 2 30
+{
+	EPS6_01 = 去见~b~汤姆~s~。
+	EPS6_02 = 将飞机运送到~y~机场~s~。
+	EPS6_03 = 回到~b~飞机~s~上。
+	EPS6_04 = 飞机被遗弃。
+	EPS6_ATTACK = 吉米·波士顿遭到攻击。
+	EPS6_BACKPL = 回到~b~飞机~s~上。
+	EPS6_BUDDYDEAD = 兄弟与兄弟之间发生了一起暴力事件。
+	EPS6_BUDDYHURT = 兄弟与兄弟之间发生了一起暴力事件。
+	EPS6_BUDDYSPOOK = 汤姆受到了惊吓。
+	EPS6_COPS = 甩掉警察。
+	EPS6_DEAD = 吉米·波士顿死了。
+	EPS6_FAIL = 飞机被摧毁。
+	EPS6_GETIN = 乘上~b~飞机~s~。
+	EPS6_GOBACK = 回去找~b~吉米·波士顿~s~。
+	EPS6_GOTO = 去找~b~吉米·波士顿~s~。
+	EPS6_LEAVE = 离开飞机去找~b~吉米·波士顿~s~。
+	EPS6_LEFT = 已离开机场。
+	EPS6_SPOOK = 吉米·波士顿受到了惊吓。
+	EPS6_STICKYB = 飞机旁安装了炸弹。
+}

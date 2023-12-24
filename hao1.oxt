@@ -1,0 +1,23 @@
+﻿Version 2 30
+{
+	BIKE_BACK = ~s~回到~b~摩托车~s~上。
+	CAR_BACK = ~s~回到~b~汽车~s~上。
+	HAO1_1 = 去找一辆汽车。
+	HAO1_2 = 参加~y~竞速~s~。
+	HAO1_3 = 找一辆合适的车参加竞速。
+	HAO1_4 = 该载具不合适。
+	HAO1_5 = 去找一辆新车。
+	HAO1_6 = 甩掉警察。
+	HAO1_ABILITY_HELP = ~s~黄色条代表麦克的特殊能力等级。同时按µ~INPUT_SPECIAL_ABILITY~µ和µ~INPUT_SPECIAL_ABILITY_SECONDARY~µ可强化富兰克林的驾驶能力。
+	HAO1_ABILITY_HELP_KM = ~s~黄色条代表麦克的特殊能力等级。按µ~INPUT_SPECIAL_ABILITY_PC~µ强化富兰克林的驾驶技能。
+	HAO1_FAIL1 = 阿浩死了。
+	HAO1_FAIL2 = 阿浩受到了惊吓。
+	HAO1_FAIL3 = 富兰克林未能获胜。
+	HAO1_FAIL4 = 富兰克林攻击了一名敌对参赛者。
+	HAO1_FAIL5 = 一名参赛对手死亡了。
+	HAO1_FAIL6 = 富兰克林的载具已损毁。
+	HAO1_FAIL7 = 富兰克林放弃了竞速。
+	HAO1_LAP_HELP = 按住µ~INPUT_MULTIPLAYER_INFO~µ可查看圈数计数器。
+	HAO1_LOOK_HELP = ~s~按住µ~INPUT_VEH_LOOK_BEHIND~µ向后看。~s~
+	SEA_BACK = ~s~回到~b~小海鲨~s~上。
+}
